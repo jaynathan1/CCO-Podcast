@@ -241,7 +241,16 @@ The goal is a brief that Jay and Jeff can scan in 2 minutes before hitting recor
 
 **Trend Watch structure:** The Trend Watch section must have clear visual separation between its sub-elements. Apply `HEADING_3` style to the "Evidence:" label paragraph. Insert an extra blank paragraph before the "Why now:" line (so there are two blank lines separating the evidence bullets from the closing sentence). This prevents the section from reading as a wall of text.
 
-**B-Block separation:** Each B-Block story headline (H3) must be preceded by two blank paragraphs — one from the previous story's trailing blank, plus an additional inserted blank. In the batchUpdate, insert extra blank paragraphs at the positions immediately before each B-Block 2 and B-Block 3 headline. Process insertions in reverse document order so earlier indices remain valid.
+**B-Block story structure — exact format:**
+Each B-Block story must follow this precise structure in the Google Doc:
+- `HEADING_3`: Story headline (e.g. "B-Block 1: CS Org Restructuring — SaaStr AI Annual")
+- `NORMAL_TEXT`: **Source**: [source line] — the word "Source" bold, colon onward normal weight
+- `NORMAL_TEXT`: *(blank paragraph)*
+- `NORMAL_TEXT`: **Hook**: [hook text] — the word "Hook" bold, colon onward normal weight
+- `NORMAL_TEXT`: *(blank paragraph)*
+- `NORMAL_TEXT`: **Discussion starter**: [text] — "Discussion starter" bold, colon onward normal weight
+
+In the batchUpdate: insert blank paragraphs between each element in reverse document order (last story first). Then apply `updateTextStyle` with `bold: true, fields: 'bold'` to each label word ("Source" = 6 chars, "Hook" = 4 chars, "Discussion starter" = 18 chars), adjusting indices for the cumulative shift from all preceding insertions. No blank paragraph between the H3 headline and the Source line.
 
 **Document structure:**
 
