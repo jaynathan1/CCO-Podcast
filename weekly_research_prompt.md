@@ -214,36 +214,141 @@ A short list of:
 
 ### Step 6.5: Publish to Google Docs
 
-After writing the brief markdown file, publish it to Google Docs so Jay and Jeff have a clean, human-readable version to review before recording.
+After writing the brief markdown file, publish a formatted version to Google Docs for Jay and Jeff to review before recording.
 
-**Check for an existing doc first.** Look for `./briefs/YYYY-MM-DD_gdoc_id.txt` (same date as the brief). If that file exists, it contains the Google Doc ID — update that document rather than creating a new one.
+#### Doc naming and location
 
-**If no doc exists for this week:**
+- **Name:** `YYYY-MM-DD CCO Podcast Brief` (e.g. `2026-06-12 CCO Podcast Brief`) — date first so docs sort chronologically
+- **Folder:** Store in the **"CCO Podcast Briefs"** folder on Google Drive. Create this folder if it doesn't exist. Use Drive API to find or create it: search for a folder named "CCO Podcast Briefs" in the root, then use that folder's ID as the `parents` value when creating the doc.
 
-1. Create a new Google Doc titled: `CCO Podcast Brief — [Release Date, e.g. "June 12, 2026"]`
-2. Format the brief with proper document structure:
-   - Use **Heading 1** for the main title ("CCO Podcast — Weekly Research Brief")
-   - Use **Heading 2** for each major section (Lead Story, Secondary Stories, Quick Hits, Trend Watch, Suggested Episode Arc, Guest Suggestion, Fact-Check Notes)
-   - Use **Heading 3** for sub-sections within stories
-   - Use **bold** for labels (What happened, Why it matters, etc.)
-   - Use bulleted lists for discussion angles, quick hits, and fact-check items
-   - Include a metadata block at the top with Recording date, Release date, and Research window
-3. Share the document with **jay@customersuccess.io** and **jeff@customersuccess.io** as editors
-4. Save the document ID to `./briefs/YYYY-MM-DD_gdoc_id.txt`
+#### Check for an existing doc first
 
-**If a doc already exists for this week:**
+Look for `./briefs/YYYY-MM-DD_gdoc_id.txt`. If it exists, update that document rather than creating a new one. If no doc exists, create one in the CCO Podcast Briefs folder.
 
-1. Open the existing document using its saved ID
-2. Update the content to reflect the current brief — replace outdated sections, add new findings, and add a note at the top indicating this was an updated run (e.g. "Updated: [date]")
-3. Do not change sharing settings (they're already set)
+#### Formatting rules (apply to every doc, new or updated)
 
-**Google Docs API notes:**
-- Use the Google Docs REST API: `https://docs.googleapis.com/v1/documents`
-- Credentials are injected automatically via the OneCLI proxy — no auth headers needed
-- To create: `POST https://docs.googleapis.com/v1/documents` with `{"title": "..."}`
-- To update content: use `batchUpdate` with `insertText` and `updateParagraphStyle` requests
-- To share: use the Google Drive API `POST https://www.googleapis.com/drive/v3/files/{fileId}/permissions`
-- If Google Docs is not connected, surface the connect URL to Hal and skip this step (do not fail the whole run)
+The goal is a brief that Jay and Jeff can scan in 2 minutes before hitting record. Write tight.
+
+**Font:** Apply **Montserrat** to all text in the document (use `updateTextStyle` with `weightedFontFamily: { fontFamily: "Montserrat" }` across the full document range).
+
+**Content length:** Reduce all prose by ~50% vs. the markdown draft. Cut hedges, cut repetition, cut anything that doesn't add new information. If a sentence doesn't help Jay or Jeff riff, remove it.
+
+**No walls of text.** Any prose block longer than 3 sentences must be broken into bullets. The "What happened" section in particular: use 4-6 tight bullets, one fact per bullet, source tag inline. Never a paragraph of run-on citations.
+
+**Document structure:**
+
+```
+[Title — H1, Montserrat]
+YYYY-MM-DD CCO Podcast Brief
+
+[Metadata block — Normal style, Montserrat]
+Recording: Tuesday [date]  |  Release: Thursday [date]  |  Research window: [range]
+
+---
+
+[Section — H2, Montserrat]
+Lead Story — "[Headline]"
+
+[Sub-label — H3, Montserrat]
+What happened
+
+• [One fact, source tag] (primary)
+• [One fact, source tag] (secondary, reported by X)
+• [One fact, source tag] (soft — single benchmark)
+(4–6 bullets max)
+
+[Sub-label — H3]
+Why it matters
+
+[2–3 sentences max. Connect directly to the show's audience and themes.]
+
+[Sub-label — H3]
+Discussion angles
+
+• [Question Jay or Jeff would ask]
+• [The contrarian / non-obvious take]
+• [The "so what do you do about this" angle]
+
+[Sub-label — H3]
+Prior episode tie-in
+
+[One sentence: episode number, title, specific moment.]
+
+---
+
+[Section — H2]
+B-Block Stories
+
+[For each story:]
+[Story headline — H3]
+[Source with tag — one line]
+[Hook — 1 sentence]
+[Discussion starter — 1 sentence as a question]
+
+---
+
+[Section — H2]
+Quick Hits
+
+• [One sentence + source tag]
+• ...
+
+---
+
+[Section — H2]
+Trend Watch
+
+Pattern: [One sentence]
+Evidence:
+• [Data point + source]
+• [Data point + source]
+Why now: [One sentence]
+
+---
+
+[Section — H2]
+Suggested Episode Arc
+
+1. Open (5 min): ...
+2. Lead (15–20 min): ...
+3. Pivot (10 min): ...
+4. Build/demo (10 min): ...
+5. Quick hits + close (5–10 min): ...
+
+---
+
+[Section — H2]
+Guest Suggestion
+
+Who: [Name, role, company]
+Why now: [One sentence]
+What they'd bring: [One sentence]
+
+---
+
+[Section — H2]
+Fact-Check Notes
+
+• [Corrected claim and what changed]
+• [Soft-attribution flag — caveat on air]
+• [Anything cut and why]
+```
+
+#### Sharing
+
+Share the doc with **jay@customersuccess.io** and **jeff@customersuccess.io** as editors. Use the Google Drive permissions API. Requires Google Drive to be connected.
+
+#### Google Docs / Drive API notes
+
+- Create doc: `POST https://docs.googleapis.com/v1/documents` with `{"title": "..."}`
+- Move to folder: `PATCH https://www.googleapis.com/drive/v3/files/{docId}?addParents={folderId}&removeParents=root`
+- Update content: `POST https://docs.googleapis.com/v1/documents/{docId}:batchUpdate` with `insertText` + `updateParagraphStyle` + `updateTextStyle` requests
+- Find folder: `GET https://www.googleapis.com/drive/v3/files?q=name='CCO Podcast Briefs' and mimeType='application/vnd.google-apps.folder'`
+- Create folder: `POST https://www.googleapis.com/drive/v3/files` with `{"name": "CCO Podcast Briefs", "mimeType": "application/vnd.google-apps.folder"}`
+- Share: `POST https://www.googleapis.com/drive/v3/files/{fileId}/permissions`
+- Credentials injected automatically via OneCLI proxy — no auth headers needed
+- If Google Docs or Drive is not connected, surface the connect URL to Hal and skip this step gracefully — do not fail the whole run
+- Save the doc ID to `./briefs/YYYY-MM-DD_gdoc_id.txt` after creation
 
 ### Step 6.6: Email Notification
 
