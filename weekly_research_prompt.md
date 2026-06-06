@@ -198,9 +198,11 @@ A proposed flow for the episode that weaves the above into a coherent conversati
 
 ### Guest Suggestion (if applicable)
 If this week's topics point to a specific person who would be a great guest, flag them:
-- **Who**: [Name, role, company]
+- **Who**: [Name, role, company — LinkedIn](URL)  ← always include a LinkedIn profile hyperlink
 - **Why now**: [What makes them timely]
 - **What they'd bring**: [Unique perspective or experience]
+
+Research the guest's LinkedIn URL before writing the brief. The Who line must include " — LinkedIn" hyperlinked to their profile. If you cannot confirm the URL, flag that clearly rather than guessing.
 
 ### Fact-Check Notes
 A short list of:
@@ -251,6 +253,17 @@ Each B-Block story must follow this precise structure in the Google Doc:
 - `NORMAL_TEXT`: **Discussion starter**: [text] — "Discussion starter" bold, colon onward normal weight
 
 In the batchUpdate: insert blank paragraphs between each element in reverse document order (last story first). Then apply `updateTextStyle` with `bold: true, fields: 'bold'` to each label word ("Source" = 6 chars, "Hook" = 4 chars, "Discussion starter" = 18 chars), adjusting indices for the cumulative shift from all preceding insertions. No blank paragraph between the H3 headline and the Source line.
+
+**Guest Suggestion section — exact format:**
+- `HEADING_2`: "Guest Suggestion"
+- `NORMAL_TEXT`: *(blank paragraph)*
+- `NORMAL_TEXT`: **Who**: [Name, role, company] — [LinkedIn](URL) — "Who" bold (3 chars), colon onward normal; append " — LinkedIn" where "LinkedIn" is hyperlinked to the guest's profile URL
+- `NORMAL_TEXT`: *(blank paragraph)*
+- `NORMAL_TEXT`: **Why now:**: [text] — "Why now:" bold (8 chars, including the colon), rest normal
+- `NORMAL_TEXT`: *(blank paragraph)*
+- `NORMAL_TEXT`: **What she'd/he'd bring**: [text] — "What she'd/he'd bring" bold, colon onward normal
+
+In batchUpdate: use `updateTextStyle` with `link: { url }` and `fields: 'link'` to apply the hyperlink to the "LinkedIn" text (8 chars). Research the guest's LinkedIn URL before writing — insert the correct `linkedin.com/in/...` URL. If the URL cannot be confirmed, leave a `[LinkedIn — URL not confirmed]` placeholder and flag it in the brief notes.
 
 **Document structure:**
 
