@@ -10,7 +10,7 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 
 *Append below. One bullet per idea. URL optional. Initial in brackets if you want to claim it.*
 
-- 
+-
 
 ---
 
@@ -30,6 +30,7 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 - Comp data for TAMs / FDEs / AI-native CS roles — current ranges, equity, ramp
 - The vendor-services tension — when Gainsight (and others) start running renewals, what happens to the in-house CS team's headcount budget
 - "Company as code" — concrete examples of orgs version-controlling their playbooks, not just talking about it
+- Token economics in CS — what does it cost to run an agent-driven renewal motion at scale, per account
 
 ---
 
@@ -37,11 +38,6 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 
 *Producer maintains this list. Strike-through items where new signal warrants a revisit.*
 
-- Token economics breaking enterprise AI business cases — Uber, Microsoft, GitHub Copilot blow-ups (brief 2026-06-12, Lead)
-- CS org restructuring benchmarks — Vercel 93% AI support, Anthropic FDE/SDR replacement, Assembly AI FDE pivot (brief 2026-06-12, B-Block 1)
-- Salesforce Agentforce $1.2B ARR vs. seat-based model existential risk (brief 2026-06-12, B-Block 2)
-- Data readiness wall — D&B: 97% deploying AI, 5% data-ready (brief 2026-06-12, B-Block 3)
-- MCP adoption wave — Gainsight, HubSpot, ZoomInfo, Outreach, Pendo all shipped MCP in 30–60 days (brief 2026-06-12, Trend Watch)
 - Seat-based pricing dying / GitHub Copilot moves to AI Credits (brief 2026-06-02)
 - SaaStr QBee: $254/month AI VP of CS, token economics (brief 2026-06-02)
 - Zendesk Autonomous Service Workforce / pay-per-resolution (brief 2026-06-02)

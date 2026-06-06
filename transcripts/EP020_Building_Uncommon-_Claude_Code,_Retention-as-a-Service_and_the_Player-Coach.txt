@@ -1,0 +1,200 @@
+Jeff Breunsbach: All right, welcome back to another episode of Chief Customer Officer dot IO. This will be coming out Thursday, June fourth. ⁓ Jay, how's it going?
+
+Jay Nathan: Good, it's going well. ⁓ I just have come off of I don't know, three or four weeks of travel. So I am glad to be at home this week. And we'll we'll maybe we'll talk about it more, but it was at Gainsight Pulse last week, which was interesting. ⁓ didn't go last year, I don't think, but ⁓ but it was it was interesting. So lots to talk about. How are you doing?
+
+Jeff Breunsbach: That's cool. Nice. ⁓ good. We're like in ⁓ we're I'm a week away from baby watch, so Thursday Thursday, June eleventh. and you know, subsequently I've I've gotten sick ⁓ in back to back weeks from my kids. So ⁓ we're just dragging to the finish line here. You know, we're just let's just hope to make it to next Thursday. My son's birthday party's this weekend, so ⁓ I'm sure I'm sure you know what my laundry list of to do items is is like right now.
+
+Jay Nathan: Baby watch, yeah. ⁓ dude.
+
+Jeff Breunsbach: ⁓ I shared with you and Jack that ⁓ I was power washing the porch for three hours on on Sunday. You know, that was a a great great ⁓ use of my time for sure. ⁓ so yeah, it's good. But we've got a special guest. ⁓ we've got Jack, who is ⁓ Jay's son, ⁓ who is ⁓ studying engineering and ⁓ is getting into the business world and we have roped him into several projects that we're working on. So Jack, welcome to the podcast. Are you first is this your first podcast ever?
+
+Jack Nathan: ⁓ yeah, this is my first one. I've I've been around when my dad's been recording him for a while, but yeah, this is my first one.
+
+Jeff Breunsbach: ⁓ nice. Jack, what's been going on with you? Did you ⁓ it sounds like you made it back to Clemson and ⁓ you're you're hanging out for the summer?
+
+Jack Nathan: Yeah, well I'm back up in Clemson right now, I'm taking summer classes and then I'll be kinda back and forth between my home and Clemson just for exams and whatnot.
+
+Jeff Breunsbach: Nice.
+
+Jay Nathan: Yeah, and so why do we have Jack on? Let's talk about it. So Jack's been helping us with the ⁓ with the uncommon community, which we've talked about a little bit on the podcast. And ⁓ he's our engineering manager, right, Jeff? Is that the way to think about it?
+
+Jeff Breunsbach: Yeah. Yes. Yeah, I've been having him review review my ⁓ my code from ⁓ you know, myself and ⁓ my Claude code environment. So ⁓ he has d been dubbed our engineering manager for now.
+
+Jay Nathan: All right, well let's give everybody an update on like where we are with the community and what what we're doing there. And then ⁓ and then we could dive into some other topics. Do you wanna do wanna talk about where we are, Jeff?
+
+Jeff Breunsbach: Yeah. So ⁓ about a month ago we you know, we released a ⁓ AI event and ⁓ Jack, I don't even know if you knew this, but we had ⁓ six hundred people sign up for an AI event ⁓ where we were just doing some show and tell. We had about a hundred and fifty, two hundred people show up live and ⁓ I had five people demo kind of real things that they had built with AI. So ⁓ you know, a woman ⁓ showed from from her ⁓ from her s vantage point, she essentially was a VP of C S and had used Claude Code to basically build their own almost like CS tool. So her team logs into this tool and uses it every day to to interact and do things with customers. ⁓ so we had examples like that, which were awesome. ⁓ off of the back of that, we ⁓ I would say Jay and I have been noodling on this idea about community again for for a long time. You know, we had started Gang Grotain years ago, have gone away from it and ⁓ we're just sitting here thinking, man, there's this AI movement and it is More confusing than ever, it's stuff's changing faster ⁓ than ever, and there's a real opportunity for people to ⁓ kind of get on board and build. And so we released a I'll call it like a manifesto of sorts, but ⁓ it's really largely based around Uncommon, which is gonna be a community for customer success leaders who are building with AI. And so ⁓ we've got another AI event coming up in two days here on Thursday, June 4th. So we'll have another showcase, people will demo. ⁓ and then off the back of that, we're going to essentially release our community. So ⁓ we've been coding our own community environment, ⁓ building it for kind of the specs and the things that we think are really important for kind of the next age of of community. And ⁓ again, the whole purpose is to try and get customer success leaders who are ⁓ at these companies ⁓ actually building with AI to start sharing these things. And so ⁓ you know. We'll have some discussion forums and whatnot, but I think the mo thing that I think most of us are ⁓ or all of us here are excited about is ⁓ maybe the ability to share some MD files, ⁓ share skills that people can be using, ⁓ really showcase maybe environments that people have built ⁓ using Cloud Code, ⁓ how they're pulling in data to, you know, create essentially the an a custom experience for their teams.
+
+Jay Nathan: Yeah, and ⁓ it's gonna be paid, a paid community, right? I mean, there'll be free aspects of it, but this is, you know, something a little different for Jeff and I because you know, our whole thing with Gangrow Retain was we wanted to have a free and open community that provided just tons of value. ⁓ and I think that worked great for a while. It got pretty big and unwieldy, and then it was harder to control, ⁓ harder to have, you know, high quality discussion. So we want people in this community who are Actually doing. We don't, you know, we're we're not necessarily looking for consultants and and people who are you know throwing ideas around. We wanted to see what people are actually doing and give them a forum and a place to do it. And by the way, it's not just customer success teams. We use that term and I would say lowercase C, lowercase S, customer success, meaning more like post-sale, you know, customer experience and customer success. So ⁓ you know, that that could include any any portion of the the customer journey that you're building for, whether you're in more of a services kind of environment or a support kind of environment or a customer success and account management kind of environment. We'll talk a little bit about that today, I think, you know, in some of the roles discussion that we're seeing and some of the collapse there. But ⁓ don't don't necessarily want everybody to to think that this is only limited to people who are running customer success teams proper either. So
+
+Jeff Breunsbach: Yeah. Yeah. So ⁓ so Jack's been helping us out. ⁓ and I'm I'm curious, Jack, do you want to describe a little bit maybe about ⁓ some of the things that we were able to accomplish just over a maybe a fast weekend? So we I think I think maybe we got ⁓ we we got on this idea maybe a couple weeks ago, but then I think we got a little bit busy and all of a sudden we all had kind of the right ⁓ time and energy to focus over the weekend. So I think over maybe forty eight hours we probably accomplished a lot. So Jack, I don't know, what's what's top of mind for you of something that you feel like we're that we pushed out over the weekend?
+
+Jack Nathan: yeah, I mean I think well we started building it, my dad and I kinda like scaffolded out the community and kind of how we wanted it to look a little bit. And then I mean we kinda stopped, like you said, for two or three weeks and then last weekend we kinda went nuts. We we all just had a bunch of time and we all did it. But I think the main thing is the events tab. That was probably the main like big change that we got in over the weekend. I mean you You made it so you can R S D P for events, you can see the past events in there and all sorts of stuff with that.
+
+Jay Nathan: I think the cool thing about how we're building this, and the reason we're calling Jack our engineering manager right now is because we're all working on the same project together, meaning we can all use Claude Code to work against the same code base, check in changes, deploy to production, all that kind of stuff. So those didn't Jeff do a majority of that event stuff, Jack?
+
+Jack Nathan: Yeah, I mean we had built out the events page in the beginning but it was super it was super early, it didn't really have much and then Jeff just two days ago went and kinda changed it all up and added to it.
+
+Jay Nathan: So this is like the the quintessential, like I would, Jeff, you're not technical, right? I mean, you you you I mean you could do a lot of technical things and you know data and but you're not an engineer by trade. And I think this is a cool trend because you know, somebody like you who is super creative and knows what you want to see happen, you don't have to wait anymore for some developer to go make it happen. You're just making it happen, and yet.
+
+Jeff Breunsbach: No. Sure. Yeah.
+
+Jay Nathan: We have Jack who's looking at it from more of like the the engineering security, ⁓ you know, the even like the cost of how we host it and deploy it. It it and he's able to help us figure out like, okay, how do we do that? How do we do this stuff the right way? Right. You've got the idea here. Now how do we deploy that in a way that that's gonna work and how do we work as a team on it? So I think that's been the coolest thing about how we've been working on this. So, and Jeff, to your point. And for everybody's benefit, like we've been trying to eat our own dog food and sort of like practice what we're preaching on this podcast as we built this thing out. So
+
+Jeff Breunsbach: Yeah. ⁓ there's a couple th okay, so a couple of things that are coming to mind right now. One is a a new idea we've never talked about that I'm just gonna throw out there and see if you guys ⁓ think it's a good idea. ⁓ but before I get there, I think the second thing which I have found interesting is is I think we have ⁓ we have just been basically texting back and forth in a group thread. Like this isn't you know, it's not like we have like emails flying or like a Slack ⁓ it's literally just iMessage that we're going back and forth. ⁓ and so what I have found interesting though is I think like there is this interesting balance of trying to ⁓ move quickly and adjust things, but then also figure out like what's the right level of documentation. And so I think another thing that we did this weekend, or at least I did, that ⁓ I have found a little bit more helpful is ⁓ I just got a free linear space. ⁓ you know, I don't know. I just know linear from like our engineering teams and we use it at at and it seems like a great product. But like now what's cool is I have linear hooked up with Claude code and I have it hooked up to our environments. And so like this morning, for instance, I was like, hey, ⁓ go give me a download of like everything that Jack and Jay did over the past 24 hours. Like what what did they change? What happened? And then like, does that reflect in linear? And so then I could easily go see, okay, like what things we want to go build before we launch this thing, right? And we just we can throw ideas in there, we can kind of have some documentation in linear, but like it's nice to be able to have ⁓ simple ways, I guess. Like I I usually tend to overcomplicate project plans and think like, I need all these milestones, I need like a Gantt chart, like how's all the stuff? But I think like this free flowing, like, hey, what's happened over the past twenty four hours? Is it updated and linear? And and not having to like physically go touch tickets myself is actually like I don't know. It's like it's a great place to be 'cause you feel somewhat organized, but I I still think it's like fluid and dynamic. ⁓ so I don't know. That's just an interesting thing I I thought about ⁓ over the past like twenty four hours as I've been interacting with it as well.
+
+Jay Nathan: I have to admit, I have not really used linear. Jack, had you used linear before?
+
+Jack Nathan: I had I didn't even know what it was when Jeff had invited it to us. I mean I told you I had to put it in claw to ask what it was. But yeah.
+
+Jay Nathan: ⁓ that's so funny.
+
+Jeff Breunsbach: ⁓ yeah, so for those out there, Linear ⁓ I think it if I had to describe it as a ⁓ is essentially a ⁓ it's a ticketing system for engineering teams. ⁓ you can plan sprints, you can ⁓ connect it to a bunch of your tools. You can actually connect it to GitHub. It can like you know, essentially kind of pull in your your code base and gits and pushes and so or pulls and pushes and ⁓ and so yeah, it's ⁓ We've used it, we used it at work, and I've I don't know, I've found some of the workflows and some of the templates that you're able to do pretty helpful. But ⁓ and then it's just got some track, you know, some I know, Kanban boards and some ways that if you want to track, you know, where stuff lives, ⁓ it can be it can be in there as well. ⁓ okay, here's my idea that we ⁓ when I was just listening to you talk about you talk about the community, Jay, is ⁓ what if if you what if once you become a member of Uncommon, ⁓
+
+Jay Nathan: Yeah, yeah.
+
+Jeff Breunsbach: Essentially like you could access you could access you could ⁓ create a branch of the code base and you could actually make suggestions about how to make the community better. Like you could actually be suggesting how to build how to build like you like hey, I I think about this new feature for the community. ⁓ you could they can have cloud code go do it. They can essentially put it up for a PR and then we could with then we could essentially like check it and review it and then push it to go live.
+
+Jay Nathan: Yeah. Okay. Yes. That is a great idea. That is a great idea. Yes. Just have them do pull requests on it. I guess the question is, do we ⁓ do we have to open source the community? Jack, you may know the answer to this. Do we have to open source the the code for the community to be able to do that? I'm I mean, I'm fine with that actually. I don't we didn't write any of it.
+
+Jeff Breunsbach: Yeah.
+
+Jack Nathan: Yeah. No, I mean we definitely would have to do it op open source. ⁓ you could also keep it closed source and do kind of like a plug in based thing. So there's like one standard format to add things to it.
+
+Jeff Breunsbach: Talk to me about that. Tell me more about that.
+
+Jack Nathan: So I mean it's like it it wouldn't be almost as fluid as you're saying where it's like you could kinda like get the GitHub repo if it's open source and just add whatever you want, but we'd kinda have like plugins where it's like just like people who wanted a new feature. It's like there's a little section that we add there and you can kinda click on these new features that people have added and use them.
+
+Jay Nathan: ⁓ I see. More like components that they can like a marketplace kind of thing. Yeah. Yeah.
+
+Jack Nathan: Yeah, it'd be more like a Mm. So I mean it'd be less fluid than that, but y it would still be the same of like they make a plugin and then you can merge the PR.
+
+Jeff Breunsbach: Almost like feature flags. Yeah. Yeah, that'd be cool too.
+
+Jay Nathan: I I love the idea. I love the idea. I think it's a great idea. And I love the idea of doing it on the whole code base. Just let it rip. You know? I I guess we just need to think about ⁓ I guess you need to think about security a little bit on that. But I mean we there's nothing insecure about doing that, I don't think. ⁓ as long as we're reviewing
+
+Jeff Breunsbach: Some I think there's some version of that.
+
+Jack Nathan: Yeah.
+
+Jeff Breunsbach: Yeah.
+
+Jack Nathan: No, I mean all of our stuff is stored in in Superbase.
+
+Jay Nathan: Yeah. Okay, cool. Yeah, let's figure that out. I love that idea. That's a great idea, Jeff. Evelyn here build it for us too.
+
+Jeff Breunsbach: I'll add it to linear. I just had I just had my claude add it to linear.
+
+Jack Nathan: Yeah.
+
+Jeff Breunsbach: Well, so this is actually so going back, ⁓ just for an an instance too about like why I heard about Linear is ⁓ and this is I think the most sophisticated thing I've heard of, but my buddy Spencer has a ⁓ software company that they're building, ⁓ early stage company. And his chief technology officer, what he did is he I know I don't know technically how he set this up, but let me describe in theory what I think he did. Is he allowed for people to go into Linear to create and just in a ticket or an issue. And what it would do is actually it would automatically branch off the software and it would go build what you described in there. So essentially, like Spencer, a non-technical person, would be like, hey, I want the software to do X, Y, and Z. I want to be able to do, you know, I want this feature, blah, blah, blah. ⁓ it would then, like, in linear, auto automatically go branch ⁓ the repo. It would go build a testing environment. It would go build the feature that it's talking about, it would let Spencer interact with it back and forth, and then like Then it would, you know, essentially like update and then allow ⁓ the the CTO to essentially check the PR and push it to to live. But it all happened in these linear hubs. And so he said, like now our c now our entire company, our marketing person, our salesperson, they're all in there and they're describing things. Like, hey, a customer just asked me for this. And so now like he just said, like, now the intake, he's like, we have to get, you know, we probably have to watch the intake process of this because like now we can, you know, you've got 7x the amount of people just like throwing stuff in.
+
+Jay Nathan: Yeah.
+
+Jeff Breunsbach: But he said it's just allowed, I guess, like the level of innovation to like continue to ratchet up and it's in a safe environment. It's in a way that like branches the code, it creates a ⁓ testing environment, like it it kind of does it sounds like maybe all the security things that you need it to, ⁓ and it's all hosted within Linear. I forget how he set this up, but like that's that's also where I've heard about Linear and like why it was a cool idea.
+
+Jay Nathan: Yeah. So so Ramp does the same thing. I've heard a podcast on this. They they actually allow their salespeople to submit it's basically a prompt, right? It's like, hey, we here's a new feature request, and then allows that to flow through the same way. So it gets almost like prototyped out based on what they've heard on a customer call. You could even think about it happening automatically with support tickets and with, you know, customer call transcripts with feature requests. Now Of course, you're not gonna build all that stuff, right? Because a lot of times you have bespoke kind of requests coming from clients. So you still need a product manager mindset to say, hey, look, this is what we're gonna do and this is what we're not gonna do, here's how it's gonna work. But I mean, at the end of the day, like you can just move really, really quickly to test out the feasibility of some of these ideas before you know you commit them to ⁓ to the to the repository, commit them to the code base.
+
+Jeff Breunsbach: Yeah. ⁓ all right, two other things that this just reminded me of. I I forget if I've told you about these, but I just set up or I set up one automation recently. ⁓ and then I also just talked to my CEO about another, our CEO and founder. So the one that I set up is ⁓ you know, you I think you keep pushing how how ⁓ valuable call transcripts are and almost like how they're like almost like undertapped. Like it's basically like the call transcript just lives in the call transcript tool and like some people use it a little bit, right?
+
+Jay Nathan: Mm-hmm. ⁓ my god, what a waste. Yep.
+
+Jeff Breunsbach: ⁓ so what I did is I have now a ⁓ an N8N setup that essentially looks at the call transcript and just looks for like shout outs to our team. If they're praising our team, if they're praising our company, if they're praising our product. ⁓ and it just it reads through, uses AI to determine that, and then it pushes it into a channel in our Slack called customer quotes, and then it links you back to the exact moment that the call happened. So you could actually click into the call if you wanted to. But now you just have this like I think like infectious great kind of flow every morning of like customer quotes coming in and being like, Hey, you know, junction's awesome. Here's you know, the product's been great. It's I think we had one yesterday that said, like, ⁓ wow, you guys took like a complicated process around lab testing and made it so simple, you know, but just like really cool quotes. And like our company has this left I turned it on like a week ago and our company is like loving it, you know, especially like our sales and C S teams, because now the whole company gets to see these things without us having to go type, Hey, the customer just told me X, Y, and Z, you know, whatever.
+
+Jay Nathan: Yep, yep.
+
+Jeff Breunsbach: And so then I just talked to my CEO about this too. I was just like, you know what? Like we should just do the same thing, almost like what you were saying, Jay. We should do the same thing for product feature requests and produ and and other things where they talk about maybe a situation or scenario. So we're gonna push it into a Slack channel, and then on the Slack channel, we're gonna have buttons that'll allow us to push it into a linear ticket. So like the product team can actually essentially manage and triage that, but at least we have it free flowing where like the innovation doesn't stop and doesn't allow like it, it's not just contained with the CSM being like, okay. let me write that down in my notebook and then let me go write that down for ⁓ you know ⁓ let me go ⁓ write that down for this the team and put it into a slack channel or an ⁓ an issue ticket. Like think about all the the friction that exists there. And now it's basically like, hey, flee free flows in there. And I think like a couple of the things I'm gonna do is just like tag the team member that was on the call and then allow them, hey, just go in there and drop a couple comments if you want about like what you were talking about.
+
+Jay Nathan: Yeah.
+
+Jeff Breunsbach: But then, you know, allow the product team to still manage the intake, I guess, of like, hey, do you actually want to push this into a linear ticket that would allow them to create a project and in kind of the the whole feature set around it?
+
+Jay Nathan: That's really cool. And and then the then what you can do is train your CSMs to have better conversations about it. It's like, okay, so you're asking for this. Can you please talk to me about the business value that this would create for you if we were able to deploy this? Like if you give them then the rubric and they don't have to spend time writing it down, all they gotta do is ask the right questions on the call, right? And that's better engagement for the client anyway and for the for the team. So I saw Bob London last week and
+
+Jeff Breunsbach: Yes.
+
+Jay Nathan: Course, you know, that that that great great conversations comes to mind whenever I think of him. But ⁓ but yeah, that's really cool. And I think we're gonna look back at some of the stuff that we've had to do over the past I mean forever and just like shake our heads, right? Like we really used to do that by hand. Think about how much fidelity is lost. Not just the fact that it may or may not even get done, but by the time you have a CSM translate or anybody translate what the customer said.
+
+Jeff Breunsbach: Yes.
+
+Jay Nathan: into their words on their notebook and then turn it back around and communicate it to the product team and try to convince the product team to build X, Y, and Z. It's just it's so low fidelity by then and you lose all the you lose all the the I guess the grit to what the customer's actually asking for. Because usually when customers ask for things, there's a real need there. So
+
+Jeff Breunsbach: Well and especially 'cause like we're in a nuanced environment. Like healthcare's a pretty complicated. You know, there there's ever changing and moving parts. And so like yeah, I I feel like if we get something slightly off, slightly wrong, we actually might go build something like completely in a different direction because ⁓ it is, you know, it can be so I guess fickle in some of those moments. ⁓ but yeah, that's so that's a ⁓ that's it. Before I leave next week, I'm gonna try and stand up the product experience ⁓ you know, the product one. ⁓ I just use N A N
+
+Jay Nathan: My God, yeah. Yeah. Totally.
+
+Jeff Breunsbach: ⁓ list that we use fathom as a call recorder. So Fathom into N A N use AI to to you know look for across call transcripts, look for certain call outs or shout outs and then push that into a product ⁓ feedback channel. And ⁓ and then I need to figure out with NAN maybe about how to do like the button thing. But it seems like I don't know, I feel like a ton of apps in Slack have the ability to click click buttons and take action. So I feel like that isn't that hard. I just have to research it a little bit.
+
+Jay Nathan: Yeah.
+
+Jack Nathan: Plot is really good at making like the JSONs that are the innated workflows too. If you just like feed it the docs and kinda tell it what you want, it'll go and just make it you just paste the JSON file in there.
+
+Jeff Breunsbach: Yeah. ⁓ yeah, that'll be cool. all right, anything else uncommon?
+
+Jay Nathan: Okay. No, I'm excited about it. Are we gonna so do we have a launch date yet? Not putting a buddy on the spot, but
+
+Jeff Breunsbach: ⁓ we should probably yeah, we should we should probably talk about that. I don't know. ⁓
+
+Jay Nathan: Well, I mean, I guess everybody that's signed up for the events we can use as the wait list, so to speak. Is that fair?
+
+Jeff Breunsbach: Well yeah, so we've got it I've got a couple of different lists that are forming. So we've got our we've got our email list, which ⁓ you know, we've gotten up to thousands and thousands of people. ⁓ I've got roughly about a thousand people that have signed up for our AI events. And then we've got ⁓ I actually we have a kind of a standalone page for Uncommon, just the the the idea behind the community and the price point. And I think we've gotten that now up to ⁓ just under a hundred people who have signed up for like updates on like the community and what we're gonna launch it and stuff like that. So We've got kind of three lists to work from. ⁓ and I think y almost you start probably at the most narrow and work out. So probably email the roughly a hundred people and say, Hey, you know, we're getting ready to launch this thing. Do you want to become kind of a alpha or beta user and go through the whole process flow and give us feedback and whatnot? ⁓ so when should we do it? What's the date?
+
+Jay Nathan: Cool. All right, so when should we ⁓ I don't know. What do you think, Jack? How soon should we launch this thing?
+
+Jack Nathan: ⁓ I mean should we try to do it on or right before July? Do we think I think we could get it done by then?
+
+Jay Nathan: Absolutely.
+
+Jeff Breunsbach: I was thinking like next I was thinking like next week.
+
+Jay Nathan: Yeah, me too.
+
+Jack Nathan: Yeah? Okay. I mean I d I didn't know what y'all were thinking timeline wise.
+
+Jay Nathan: Jeff's learned that that wh you know, whatever date whatever date we're where, you know, is in your head, just subtract two weeks from it. That's what's in my head.
+
+Jack Nathan: Okay.
+
+Jeff Breunsbach: That's yeah, it's usually how your dad operates for sure. ⁓ yeah, no, I think I think what would be fun. Well, so here's here's the thing. I have to go I have to go have a baby on Thursday, June eleventh. Or my wife has to have a baby, excuse me. My wife has to deliver a baby. I'll be in the room. ⁓ so Tuesday, June 9th is next is our next recording. And so I would hope by the next to by next Tuesday we've we've done a bunch to like get this to a spot that we could probably release it. ⁓ and so then maybe
+
+Jack Nathan: Yeah.
+
+Jay Nathan: ⁓ my god.
+
+Jeff Breunsbach: I don't know if we want to release it when I'm not actually at my computer on Thursday, June eleventh, but ⁓ but maybe we do something ⁓ the following week. So we'll have an update next week and then maybe we launch it like the fifteenth, which would be Monday Monday after next.
+
+Jay Nathan: Okay. I like that. All right, perfect. Cool. All right, next topic. So ⁓ I'll introduce it, I guess, ⁓ if that's all right. So I was at Gainsight Pulse last year, not not really as a Gainsight customer, obviously, but ⁓ it still is the biggest gathering of customer success people ⁓ sort of on the planet right now. I think there were I don't know, by my count there were a little less than two thousand people there.
+
+Jeff Breunsbach: All right, cool. Done.
+
+Jay Nathan: ⁓ so ⁓ but it was good. It was in Vegas, some interesting stuff. But one of the things that they announced, which ⁓ really it hits on the topic from from last week that we shared, which is AI native services. So Gainsight released something called, I think they're calling it Atlas. they're rebranding or they're rename re deploying something they already had called Atlas. And basically what it is is retention as a service. So they're gonna run your renewal program on your behalf, essentially. And it's very importantly, I'll call this out. I don't think it's for your enterprise level accounts. It's for it's for your long tail accounts. So it's really servicing the accounts that you're probably not touching today. Now, the a couple of the themes that this hits on from last week, and if you haven't listened to that episode yet, Maybe go back and listen to it because it's ⁓ it's got sort of the framework for what an AI native service is. But think about outsourcing tasks and work, right? We've done that forever. BPOs, managed services, so on and so forth. ⁓ but really focus more on an outcome, right? So in this case, it would be completed renewals, successfully completed renewals. And that's what the maybe the pricing vector is for this kind of service. And then over time, the way to think about serv delivering these kind of services is that the gross margin will look more like software gross margins because we're using AI and agents behind the scenes to power the, you know, the work behind that outcome, in this case a renewal, ⁓ versus the top-line revenue growth. Top line revenue growth is obviously important, but what's also important is the gross margin growth over time. And if you're not growing the gross margin toward like a software kind of ⁓ gross margin, then it probably means you're not actually running an AI native service or you can't for whatever reason. ⁓ what else? ⁓ so it's just interesting that a software company is launching a service in this way. I am skeptical because in my experience, and I'm not this is not just about gain site, this is about every software company. In my experience, software companies are not great service delivery Businesses. They think in terms of product, release the product, throw it over the fence. Clients' responsibility to adopt it. This is going to require a 100% change in mindset to you have to, or from you have to generate the outcome to with our tool, to we are going to generate the outcome for you with our tool. And that's a whole different ball game. ⁓ so interesting in and I You know, some of the language around this is like a bet the company kind of thing. If you were there, you would know it really isn't a bet the company kind of thing because it's not the only thing they release. They r release an agent platform and ⁓ and specific agents that handle particular parts of the the customer journey out of gain site. I have a whole nother diatribe on that, which we can talk about. Like, is that really valuable inside of GainSight or is that is that gonna be something that, you know, is a So but anyway, curious your thoughts, Jeff. AI native services for renewals. ⁓ how does that land on you? ⁓ I mean I
+
+Jeff Breunsbach: ⁓ I mean I think it's interesting that they're going in this direction. And like you said, like it's a you know, an interesting play. I guess to me, ⁓ the risk the I guess the largest risk that I see is like the change management risk, right? Like you have to be embedded in that company. And so I just think about the I just think about like the the hard things maybe to get right when you think about like deploying services inside of another business, which is like Okay, where email is gonna come from? Br which branding is gonna come from? Is it coming from my company or GainSight? And then if it's coming from GainSight, how are they gonna make sure it fits my branding requirements that my marketing team wants to follow? And then how is it gonna fit the language that we wanna use and fit like all the right motions? Like it just it feels like it is ⁓ outsourcing something right ⁓ to another team and it's so ⁓ you know, it's an agency, it's whatever you wanna call it, but it basically is outsourcing ⁓ to another team. And then I think that just comes with a whole slew of challenges.
+
+Jay Nathan: Yeah.
+
+Jeff Breunsbach: For me as a business to like just hand that work off to somebody. Like I still need to actively manage it. I still need to worry about, you know, our brand risk and reputation. I still have to worry about the actual outcomes that have to come from that. ⁓ you know, I still have to worry about change management, decision matrixes too. Like, how's the decision tree work? What if a what if a customer in that segment wants to negotiate a price? Does it ever get escalated back up to us? And how does that work? And how does there yeah. So just ⁓ so i I don't I guess like sure, it feels to me just like
+
+Jay Nathan: Yeah, there's gotta be a playbook. Yep.
+
+Jeff Breunsbach: if it like sure, Gainsight wants to take this on from like a business perspective because they see it as a a way to maybe grow adoption of their AI tools and in that they feel like they can get the outcome at a lesser cost than the the actual business can. Or maybe they c they can get the outcome at a lesser cost than it costs them to serve that business. and like that's what they're, you know, taking a bet on. But ⁓ but yeah, it's it's I don't know. It's it's interesting to me 'cause I feel like for a lot of leaders in customer success that have to handle renewals and upsells and whatnot, like I still have to go into a room with my CRO or my CEO and pull all the numbers and tell them what we're working on and do all the things and that just feels so far removed, I guess, ⁓ to me to like want to do that.
+
+Jay Nathan: Well, so the the interesting thing about the emergence capital article is that it it sort of highlights the idea that the vendor, in this case gain site, would have access to all the data. But like what you said, the way around, you know, making sure the emails come from the right domain, all that kind of stuff, that's that's being handled presumably because they have gain site installed in that environment, right? So for customers that have gain site installed, that's all happening. But then again, gain site doesn't
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: necessarily own that data either, right? So that's a one of the benefits of being an AI native service that sort of goes away if you if it's not your system. And by the way, like so we provide this kind of AI native service for our clients already through Pendo. Like we are their product analyst, we are their digital experience builder, right? In in Pendo, we don't own any of that data, right? What we do own, like we keep talking about it's called transcripts and
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: and you know, interesting insights into what people are building and how they're they're running these programs, but we don't own that data. So ⁓ yeah, there there's a lot of hair on it from a execution standpoint. And and I don't it'll be interesting to see if software companies actually have the stomach for doing all that work. Because you have to be well, they're already sock to compliant and presumably and all of the stuff. But ⁓ but yeah there's a lot of nuance there.
+
+Jeff Breunsbach: Yeah. So this is an interesting ⁓ do you remember do you ⁓ ever follow a guy on ⁓ Twitter or X called Balogy? B-A-L-A-J-I. Yeah. So this is yeah, so this is kind of funny because I remember this is probably during COVID days. ⁓ he had a podcast that came out, and this was more so around the blockchain and how at the time, you know, blockchain was becoming popular and people were talking about how blockchain was gonna revolutionize business and whatnot. And
+
+Jay Nathan: Yeah, yeah. Well I've heard of him. Yeah. I've heard my first million, I think they talk about him.
+
+Jeff Breunsbach: In theory, his his concept was basically that work is going to become decentralized over time and that you essentially are going to be able to like as a person, this is well, I think I'm like generalizing his idea and I'm probably getting at some of it wrong, but just go with me for a minute. So, like in in theory, what he was saying is that like me as a business, I would almost put up a bounty that says, Hey, I need somebody to come handle retention for this bottom 20% of my customers, and somebody
+
+Jay Nathan: Mm.
+
+Jeff Breunsbach: out there who has that expertise would come essentially apply for that job in real time as like a block ⁓ we'll say the blockchain and be able to then like I could basically see the output of their work and be able to pay them in like this way that would like but but they are not part of my company, right? Like they essentially attach to my company for this project in this period of time and then they kind of go away. And the reason I'm bringing this up is I just think it i it this was like six or seven years ago. And so I think it was originally around blockchain, but this is just becoming really interesting to me because in the future do you start to see more work
+
