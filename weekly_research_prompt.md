@@ -235,6 +235,8 @@ The goal is a brief that Jay and Jeff can scan in 2 minutes before hitting recor
 
 **No walls of text.** Any prose block longer than 3 sentences must be broken into bullets. The "What happened" section in particular: use 4-6 tight bullets, one fact per bullet, source tag inline. Never a paragraph of run-on citations.
 
+**Bullet formatting:** All bullet points must use native Google Docs list formatting — never plain-text `•` characters. After inserting content via `insertText`, identify all bullet paragraphs and convert them with `createParagraphBullets` (bulletPreset: `BULLET_DISC_CIRCLE_SQUARE`) via a second `batchUpdate` pass. Process paragraphs in reverse document order (last to first) so that index positions remain accurate across sequential deletions. Strip any manually-typed `•` prefix characters before applying `createParagraphBullets`.
+
 **Document structure:**
 
 ```
