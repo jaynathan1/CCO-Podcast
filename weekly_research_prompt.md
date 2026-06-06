@@ -142,7 +142,9 @@ Before writing the final brief:
 
 ### Step 6: Final Output
 
-Write the brief to `./briefs/YYYY-MM-DD_weekly_brief.md` where the date is the **release date** (the Thursday of the episode week). For example, if the brief is run on Tuesday June 2 for a Thursday June 4 release, the filename is `2026-06-04_weekly_brief.md`. Create the `./briefs/` folder if it doesn't exist. Past briefs in that folder are reference material — do not modify or overwrite them.
+Write the brief to `./briefs/YYYY-MM-DD_weekly_brief.md` where the date is the **release date** (the Thursday of the episode week). For example, if the brief is run on Tuesday June 2 for a Thursday June 4 release, the filename is `2026-06-04_weekly_brief.md`. Create the `./briefs/` folder if it doesn't exist.
+
+**If a brief file already exists for this week, do not overwrite it.** Open it, review what's already there, and update or extend it with new findings. Preserve any existing content that remains accurate; add a datestamped note at the top of the Fact-Check Notes section indicating this was an updated run.
 
 The brief itself uses this structure:
 
@@ -209,6 +211,72 @@ A short list of:
 - How each item from `next_episode.md` was handled (included, deferred to next week, or cut with reason)
 
 ---
+
+### Step 6.5: Publish to Google Docs
+
+After writing the brief markdown file, publish it to Google Docs so Jay and Jeff have a clean, human-readable version to review before recording.
+
+**Check for an existing doc first.** Look for `./briefs/YYYY-MM-DD_gdoc_id.txt` (same date as the brief). If that file exists, it contains the Google Doc ID — update that document rather than creating a new one.
+
+**If no doc exists for this week:**
+
+1. Create a new Google Doc titled: `CCO Podcast Brief — [Release Date, e.g. "June 12, 2026"]`
+2. Format the brief with proper document structure:
+   - Use **Heading 1** for the main title ("CCO Podcast — Weekly Research Brief")
+   - Use **Heading 2** for each major section (Lead Story, Secondary Stories, Quick Hits, Trend Watch, Suggested Episode Arc, Guest Suggestion, Fact-Check Notes)
+   - Use **Heading 3** for sub-sections within stories
+   - Use **bold** for labels (What happened, Why it matters, etc.)
+   - Use bulleted lists for discussion angles, quick hits, and fact-check items
+   - Include a metadata block at the top with Recording date, Release date, and Research window
+3. Share the document with **jay@customersuccess.io** and **jeff@customersuccess.io** as editors
+4. Save the document ID to `./briefs/YYYY-MM-DD_gdoc_id.txt`
+
+**If a doc already exists for this week:**
+
+1. Open the existing document using its saved ID
+2. Update the content to reflect the current brief — replace outdated sections, add new findings, and add a note at the top indicating this was an updated run (e.g. "Updated: [date]")
+3. Do not change sharing settings (they're already set)
+
+**Google Docs API notes:**
+- Use the Google Docs REST API: `https://docs.googleapis.com/v1/documents`
+- Credentials are injected automatically via the OneCLI proxy — no auth headers needed
+- To create: `POST https://docs.googleapis.com/v1/documents` with `{"title": "..."}`
+- To update content: use `batchUpdate` with `insertText` and `updateParagraphStyle` requests
+- To share: use the Google Drive API `POST https://www.googleapis.com/drive/v3/files/{fileId}/permissions`
+- If Google Docs is not connected, surface the connect URL to Hal and skip this step (do not fail the whole run)
+
+### Step 6.6: Email Notification
+
+After the Google Doc is created or updated, send an email to Jay and Jeff with the link.
+
+**Recipients:**
+- Jay Nathan — jay@customersuccess.io
+- Jeff Breunsbach — jeff@customersuccess.io
+
+**Subject:** `CCO Podcast Brief Ready — [Release Date] Recording`
+
+**Body:**
+```
+Hey Jay and Jeff,
+
+Your research brief for the [Release Date] episode is ready.
+
+[One-sentence summary of the lead story]
+
+→ Read the full brief: [Google Doc link]
+
+Key flags to know before recording:
+[2-3 bullet points from Fact-Check Notes — soft-attribution items or anything they should caveat on air]
+
+— Maverick
+```
+
+**Email API notes:**
+- Use Gmail API: `POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send`
+- Construct the message as a base64url-encoded RFC 2822 email
+- Credentials are injected automatically — no auth headers needed
+- If Gmail is not connected, surface the connect URL to Hal and skip this step (do not fail the whole run)
+- Do not send the email if the Google Doc step failed (no link to share)
 
 ### Step 7: Commit and Push
 
