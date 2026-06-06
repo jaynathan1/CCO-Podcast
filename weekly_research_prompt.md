@@ -237,6 +237,12 @@ The goal is a brief that Jay and Jeff can scan in 2 minutes before hitting recor
 
 **Bullet formatting:** All bullet points must use native Google Docs list formatting — never plain-text `•` characters. After inserting content via `insertText`, identify all bullet paragraphs and convert them with `createParagraphBullets` (bulletPreset: `BULLET_DISC_CIRCLE_SQUARE`) via a second `batchUpdate` pass. Process paragraphs in reverse document order (last to first) so that index positions remain accurate across sequential deletions. Strip any manually-typed `•` prefix characters before applying `createParagraphBullets`.
 
+**Numbered lists (Suggested Episode Arc):** The episode arc items (1. Open, 2. Lead, etc.) must use native ordered list formatting. Insert them as plain text `1. … 2. …` initially, then in the batchUpdate pass: delete the `N. ` prefix (3 chars each) in reverse document order, then apply `createParagraphBullets` with `bulletPreset: NUMBERED_DECIMAL_ALPHA_ROMAN` across the full range covering all arc items in a single call. This ensures all items join the same list. Note: `NUMBERED_DECIMAL_NESTED_ROMAN` is not a valid preset — use `NUMBERED_DECIMAL_ALPHA_ROMAN`.
+
+**Trend Watch structure:** The Trend Watch section must have clear visual separation between its sub-elements. Apply `HEADING_3` style to the "Evidence:" label paragraph. Insert an extra blank paragraph before the "Why now:" line (so there are two blank lines separating the evidence bullets from the closing sentence). This prevents the section from reading as a wall of text.
+
+**B-Block separation:** Each B-Block story headline (H3) must be preceded by two blank paragraphs — one from the previous story's trailing blank, plus an additional inserted blank. In the batchUpdate, insert extra blank paragraphs at the positions immediately before each B-Block 2 and B-Block 3 headline. Process insertions in reverse document order so earlier indices remain valid.
+
 **Document structure:**
 
 ```
