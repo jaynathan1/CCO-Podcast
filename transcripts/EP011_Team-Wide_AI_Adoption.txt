@@ -1,0 +1,253 @@
+Jeff Breunsbach: Alright, welcome back to another episode of ChiefCustomerOfficer.io. This will come out on Thursday, 2nd. ⁓ not April Fools. We missed the opportunity for April Fools. Doing Fools joke. But Jay, how's it going?
+
+Jay Nathan: ⁓ yeah, yeah. Good Seattle, ⁓ home today. Long six hours. ⁓ Direct though from Charleston, which is amazing by the way ⁓ to ⁓ Alaska. because Boeing, ⁓ Boeing in Charleston, South Carolina, Boeing headquarters in Seattle. It's like constant shuttle of people back and forth from Boeing. So ⁓ thank you ⁓ Yeah, Jeff I have been in Charleston for a long time. ⁓ that's a...
+
+Jeff Breunsbach: What airline is that? Alaska? That has an advantage, I guess, yeah. What's your?
+
+Jay Nathan: It's a blessing to have a direct flight anywhere.
+
+Jeff Breunsbach: ⁓ What is your MO on a six hour flight? Like are you trying to connect to the internet or are you just getting offline work done? Yeah.
+
+Jay Nathan: yeah, totally. ⁓ but the internet sucked. It was really, really bad most of the way. So I got a lot of thinking done, but Alaska is upgrading all their, they're in the process of upgrading all their planes to star link. So once that happens, I mean, ⁓ it's just sitting in an office. So I don't I shouldn't have to come out here too much, but
+
+Jeff Breunsbach: Yeah. Well, we, I know we're gonna run through maybe a bunch of different things today, kind of some show and tell. I think we'll talk about couple articles or an article maybe. And then I went to an event last week and I ⁓ had couple takeaways and so I wanted to start with that if you don't ⁓ I wrote a couple things down. me pull it up real quick. Okay, a things I walked away with. Number one.
+
+Jay Nathan: Yeah, go for it.
+
+Jeff Breunsbach: this feels very much like this whole AI. Anyways, I let's talk about the event real quick. Event was basically 50, event was 50 CS leaders, plan hat arranged it and it was essentially, you know, 50 leaders ⁓ similar to our gang events. was, there was a panel. I got to participate in the panel. That was lovely. And it was all ⁓ in Boston. ⁓
+
+Jay Nathan: Yeah, we'll see about that. in Boston.
+
+Jeff Breunsbach: then the idea was to invite, ⁓ think we had 60 people total, which is what the room fit. They had like a wait list for this. And the topic was all around basically, how are you using AI in your companies today? And you know, the thing I liked about it was like, it was very much practical. They had two or three questions on the table that you could talk to your group about, but it was very much like, like, what are you doing today as a leader? Like what's like one thing that you've been doing, you know, in your day to day that you feel like is. workflow is an automation is AI that's helping you. And we talked a little bit about teams and ⁓ how are your teams adopting it? How are you trying to get that adoption with your teams? And then we talked a little bit about actual tooling, what you know, are you using Claude ⁓ open AI know, Gemini, whatever it is. And so I kind of I mean, I actually have like pages of notes, but I'll try and distill this down maybe into like three things that I walked away with. Number one is I feel like we are, what's the, what are the, I forget the category or the names, but like when you're like crossing the chasm, what is the, it's like the early. ⁓
+
+Jay Nathan: There's the adopters, the majority, ⁓ late There's like early, I need to look it up actually, early adopters. then there's like the late early adopters. And then there's...
+
+Jeff Breunsbach: Yeah, it's fine. Well, ⁓ but I think my point, I think my point though is, is I think that we're, I think sometimes I feel like myself, I get into this echo chamber where it's like, read and talk about this stuff every single day. And then there's these like little moments that like pull me out to be like, man, like this is not
+
+Jay Nathan: But yeah, yeah, yeah, yeah. I noticed that.
+
+Jeff Breunsbach: Like AI is not as widely adopted as we think or like the, you know, some of these, these pieces. like, think, ⁓ the other day somebody had a chart that we talked about, maybe it two weeks ago that basically showed like, you know, there's like 300 million people that could be using this and only like,
+
+Jay Nathan: Yes.
+
+Jeff Breunsbach: 20 million people or something like 10 million people. Yeah, it's like two dots have actually used like AI. so that was like one moment that pulled me back at this event. I just also have ⁓ kind of feel like there's like we're on the early adopter curve because we're talking about this all the time. We're playing with tools. We're doing this like there's still there are definitely still people and companies that are like evaluating this. And I think we've talked about this a little bit where it's kind of like You can't keep evaluating forever. Like you've got to actually take a move and make a step. But I just kind of walked away with this feeling of, man, like ⁓ feel like I'm constantly behind and I'm, I'm ⁓ an early adopter, maybe a late adopter, maybe a late adopter. but there is a whole majority that is like still behind us. That is like, I was talking about some simple stuff I was doing with Claude, with Claude, cowork like, Hey, you know, I've connected it to some tools and I've, and I'm, you know, essentially using it to almost as an interface. Like sometimes I'm using it for linear to create tickets for me and like, help me coalesce. Like what are some customer feedback, other stuff. And people were like, Whoa, what is cowork and how are you using it? And what is this thing? And I'm like, ⁓ yeah. ⁓ ⁓ that was just like one takeaway, I guess, is that like ⁓ ⁓ still feel like we're still in this either early late. ⁓
+
+Jay Nathan: It was weird. Right. ⁓
+
+Jeff Breunsbach: kind of late adopter phase. And it's just a good reminder, I guess, of the thing I walked away with most is that there are still small things that you could probably do at many organizations that would make a difference. And doesn't have to be a full sale solution or like thing that you're, you it doesn't have to be this huge thing that you're trying to do. Like you can just go adopt like a couple of small things that would probably move the needle.
+
+Jay Nathan: Yeah. All right. Real quick. Let me give you the framework. I just pulled it up. It's innovators. It's like the earliest, earliest early adopters. So then after innovators and early adopters is the chasm. That's the chasm is to get to the early majority. It's like a bell curve, right? And then the early majority is good, then you, ⁓ you really get the, ⁓ market share is when you get to the late majority. This is when things are like, you don't get fired for buying IBM, right? And then there's the laggards at the very end.
+
+Jeff Breunsbach: Okay. Yes.
+
+Jay Nathan: So it's like early market, chasm, late market is how to think about it, but sorry. That's the Crossing the Chasm framework.
+
+Jeff Breunsbach: Got it. No, it's helpful. Okay, so that was like one thing is just like, you know, it still feels like we're very much early, even though I think we're in this like day to day and about it all the time. The second thing that I walked away with was, was I don't think it may, this is more like a CS, maybe a CS thing right now, but like, I don't think we've documented our processes or like that we know our processes as well as we think we do.
+
+Jay Nathan: Yeah. Yes.
+
+Jeff Breunsbach: And to me, this goes back to the idea of visualizing these and like, like we really need to visualize, visualize these moments and like what these actual workflows look like in order for us to then go inspect them and look at like, where is, where are key moments that I could put technology? And I think we just throw away, throw around AI. So I've been trying to like broaden it. Like you can, you know, we can take a process and just use automation. ⁓ we can implement AI into that. as like, you know, having some steps and some context, but I think one thing I walked away with is like, I don't think we know our processes as well as we think we do. And need to visualize them more. And so like the thing I just wrote down is like, I need to go for every process that we have, like I've got to be building it in Figma or something that can help me visualize this thing. ⁓ like. be able to then articulate that and show it across the business. Cause I think it also would like articulate some more thinking, not even from myself, like from others, if they were able to see it versus just like a playbook that is, you know, steps and like very specific for a CSM. think like trying to help visualize this for the business is like another thing that I walked away with too.
+
+Jay Nathan: That comes back to, let's talk more about that one too in a minute, but that one for me is very much like this company is code idea that we talked about last time we chatted. mean, visual or not, you can always get to the visual, but the question is, do you even know what the process is? Have you ever written it down? There are things that, and I'll show you some of what I've done in Cloud Code with my team just over the past couple of weeks. It's basically skills, right? What you realize is that when you're building a skill,
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: A skill is a Claude code concept for those who haven't used Claude yet. But when you build a skill, you have to actually know what it is you're trying to accomplish on a repeated basis. you're just giving it instructions on how to do that. So I a post last week that said people that are going to get the most use and value out of these AI tools are the people who ⁓ know how document their processes, know how to think in models and design. And they're not doing ⁓ frenetic activity. ⁓ So ⁓ think.
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: you're right. And as I examine myself, I don't know my processes as well as I thought I did. Right. And I certainly don't have a doc yet. So that's yeah. Completely agree with number two.
+
+Jeff Breunsbach: Yeah. ⁓ and then the third one was, kind of a number of things I'm like wrapping into one, but, to drive further adoption within your teams, this cannot be a top down ⁓ said, gotta be like multiple things that are involved in this. So one is you've to have people demonstrating these behaviors at ⁓ every layer the organization. ⁓ So. Is your CEO using it? Is your manager's using it or your manager's using it? Are the frontline workers using it? Like, but it's just got to be demonstrated, not just a, Hey, go use AI. to me is like one of, one of those components. I think the second is actually giving them a bit more prescriptive, giving a bit more prescription about like which tools they should be using and like ⁓ they should be trying to use it. I think right now there's a little bit too much of like, just go use AI and people are like, I got to go finish the 10 things on my list. Like I don't even know where to start, what to do. But if you were to go in and say, Hey, we're really trying to improve these two to three processes. Can you all spend some time with these tools thinking about those processes? And if there's a way that we could do that better, like I think like trying to give somewhat of like, you know, trying to point them to, I guess, problems without like, um, it feeling like, again, kind of like a just go use AI, but a little bit more specific. think that's kind of the second component of this idea of trying to to drive like adoption on this. And then the third one is just these like ideas of show and tells or kind of like the, like the new version or a new way of just like, Hey, we need to bring some of these like workshops in front of people and like just having people actually showing what the thing, like the things they're using, they're building, like, ⁓ nothing seems to be like getting more juice than like, seeing something somebody else did and then being able to iterate on it or like take it and go to another direction or another department is using something and you're able to use it. So I think this whole, I know, there's a couple of things that kind of a couple of themes that kind of came out of that. Like last one of, it felt like a lot of the companies that I was talking to at this event were, were struggling to get this adoption. And it was, it felt very much cause they were just like, yeah, like our, you know, our CEO said we got to use AI and everyone's just trying to use AI versus like, it feels like you got to break that down and try and like, Again, it feels a lot about the change management of it and you can't just instruct somebody to go do something. You gotta help them along that way.
+
+Jay Nathan: Did anybody have a way to measure what AI actually means? ⁓ some kind of KPI they were working against?
+
+Jeff Breunsbach: ⁓ There's a couple of examples. There's a couple of specific examples. would say the ⁓ that I was looking at the one the couple that stand out for me is. Like there is a guy who is using some some AI tools to. Keep knowledge base up to date in a way that would actually take. almost like real time conversations that are happening with customers to go update articles that existed and or create new articles that like needed to be created. And so for me, like that one was a little bit about like ticket deflection. And so he like, he was kind of looking, he was trying to measure that with like new tickets or new articles created by AI or started by AI as like a way to like understand like, okay, are we actually seeing, are we seeing, I guess the context build? in a way that allowed us to create new articles and that was really driven from this embedded process. I some specific examples like that. I didn't hear ⁓ a of examples of kind of like a ⁓ team-wide of like, we ⁓ able get this much adoption? I think people, ⁓ at least of the conversations I was a part of were looking at it in workflows and in processes, like have we adopted it in... I guess in kind of integral pieces of our business is the way that I heard it talked about a little bit last week.
+
+Jay Nathan: Okay. Yeah. I think that might be part of the problem, right? Because me it's, ⁓ know, it such a magical ⁓ set capabilities, right? And I don't want to under, ⁓ I want to underplay that, but ⁓ at end of the day, it still comes back to the same things we always talk about. If, if technology to be ⁓ because it is ⁓ right? I mean, we talk about that in a minute too. Like ⁓ one of the things finding is It's just very expensive. Like it's going to be another, going to subsume some of our spend from somewhere from some other tools, right? We'll just say it that way or people, but that point, like there has be, there has to ⁓ a, something concrete happens your P and L as a result of the use of AI. And that could either come or indirectly. So you have to reduce some costs. think ⁓ cost reduction.
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: Easy, right? mean, everybody should be getting more efficient and able to do more with these tools than they've been able to do. I don't actually think that's the interesting side of the play. think the interesting side of the play is what can we do innovative to go drive customer engagement, customer satisfaction, sales, ⁓ know, ⁓ can we do to lift the top line from innovation perspective, either in our engagement strategies or in our product? That to is the most interesting thing. But just adoption for the sake of adoption, like, okay, that's fine. But ⁓ are you getting out of that? Because ⁓ are not, they're still not cheap. They're getting cheaper, ⁓ they're not cheap. And the more you use, ⁓ more we do, the more you realize how many more we're gonna use. So the of this ever goes down necessarily. It's we get more bang for the every time.
+
+Jeff Breunsbach: Yeah. Yeah. Yeah. Yeah. It still feels like that, that definition is still being worked out by most teams or at least the teams that I was engaging with. feels, to your point, like, think like many things in ⁓ business, I feel like this is like a multi-attribution problem that is actually starting to manifest inside the business, right? What actually drives an increase in revenue, what actually drives the decrease in cost? Because I was again, kind of reading an article the other day about, You know, if I add, if I add headcount for like reps and that contributes to the top line revenue, how much of that can I then attribute to like AI for helping us, you know, if we had automated our outreach and increased our pipeline, like there's just, you know, this kind of multi-attribution problem that I think has existed in marketing for years, I think is like now starting to come into like the P and L much more with all these, with these, you know, invention of tools that we think are either growing. revenue or decreasing cost. So I think it's interesting. I think you're going to continue to have to make assumptions and guesses and like be, you know, feel, I think there's some gut reaction of that and that you're going to have to come to. But yeah, it was fun. You know, I think like talking about this a little bit more again, I think I kind of walked away with like, maybe feel a little bit better that like I'm not totally behind. Cause I feel like I, you know.
+
+Jay Nathan: Yeah.
+
+Jeff Breunsbach: the stuff I read online, I'm like, ⁓ my gosh, like somebody just did something so cool with Claude code. Then you're like, cool. I just went into a room of 50 people and you know, I felt like I was maybe in the top 20%, which made me feel good about like the use of like what we're doing. And obviously we've got to do more, but, ⁓ but you know, I think like the, thing that you just said, I think wraps it up or like kind of like encapsulates a lot of this for me too, which is like, feels a little bit like we've almost like got the dog wagging.
+
+Jay Nathan: now.
+
+Jeff Breunsbach: the tail wagging the dog right now of like, just go use AI and like, okay, can we stop just throwing around the word use AI and like, let's like, what are we actually trying to do? you know, is this going to help this process in which way? And if that, you know, if AI can help us reinvent this process, like what is the ultimate outcome that it's actually going to help us achieve? and I think I've been caught even in recent weeks, a little bit of, cool. I'm going to go to AI first because I can versus like,
+
+Jay Nathan: Yeah.
+
+Jeff Breunsbach: like think about the end, I guess, first and then come back to it and inspect it ⁓ little bit more.
+
+Jay Nathan: There are two things that sort of stick out about all of this. One is I think a big difference between adopting AI individually ⁓ then adopting and ⁓ on and techniques as a team. ⁓ And that's where my head's been recently and why we sort of moved over to Claude because, you know, GPT has the idea of GPTs, right? Which are basically like shared ⁓ little
+
+Jeff Breunsbach: Yes.
+
+Jay Nathan: projects that you can work against. But Claude has this idea of a skill. ⁓ by the way, this comes down to a feature, right? This is a feature of either one of these platforms. not even, ⁓ of the models are excellent underneath features, but the model lets me set up a skill that anybody on my team can use. And so what we did, have started doing, ⁓ it's I had...
+
+Jeff Breunsbach: Yeah. Yeah.
+
+Jay Nathan: I can't remember if I told you about this, but I had a meeting with my team to go over a project readout for one of our clients. They sent me the deck ahead of time. I skimmed it. I looked at it. We got on the call. I gave them all kinds of coaching and I said, okay, like we don't need to start there again, right? What I need to do next time is you take the transcript from that call and you take the initial deck that we had. need to put that into Claw and say, Hey, I want you to basically list out all the things that I shared with the team and my feedback on this deck. ⁓ then Claude something called a skill builder skill. ⁓ So I use the skill builder skill to actually build ⁓ a executive ⁓ coaching And did tell you about this already? I feel like I'm ⁓
+
+Jeff Breunsbach: No, no, keep this, I was just like thinking, I was about to ask, is this co-work or is this in Claude code that they're doing?
+
+Jay Nathan: This is in Claude, none of it's in Co-Work or Code. This is just in Claude. so when you use the team version of Claude, ⁓ could upload a skill to the organization level, not your own personal ⁓ repository skills. So you have an organizational ⁓ setting is skills. ⁓ So actually built that out. And then the cool thing about the way the skill builder works, it actually does its own evals. And so it says, OK, like,
+
+Jeff Breunsbach: Okay.
+
+Jay Nathan: Do you have a deck or something that you can upload and let's go take a run at this. So it actually tests itself, lets you evaluate the output, give it more coaching, it adjusts the skill. And then when you're happy with it, you can upload that skill as an organizational skill. now anybody on my team, they want to do an executive readout ⁓ a project, ⁓ they frequently do, ⁓ can ⁓ it to Claude type you know, slash, ⁓ you Balboa ⁓ exact review. skill, review this document, give me some feedback. ⁓ then they're going to get all the feedback that I would have given anyway on deck, right? ⁓ And ⁓ still to have the meeting with them though. That's the thing, but we're going to be starting ⁓ at higher place. ⁓ The there ⁓ is the quality of that deliverable ⁓ and quality of the conversation that we're going to have with the customer is going to be much higher, right? Because ⁓ limited that we had to invest in that activity before ⁓ is to be built on a better foundation than it was prior to.
+
+Jeff Breunsbach: Yeah. Yeah.
+
+Jay Nathan: the way we did last time.
+
+Jeff Breunsbach: Yeah, and like to me, like that, like the power in that too, right? Is like now as an executive, like you rather than talking through the deck on that call, I think you're most likely like as you make that jump, you're talking about like what's going to happen on the call with the customer. What roles are we each going to play? Who do we need to make sure is engaged in this call? Like what is Jay's specific role? If I'm an executive, you know, coming to this call like I'm not there to just not say anything and like, but like you want to take a lead from your team, right? And so like I think that to me is like. Now, instead of cramming that in three minutes before your call happens, that's actually what your prep call is about, is like the roles that we play, the relationships. Yeah, yeah, that's cool. ⁓
+
+Jay Nathan: That's the purpose of the prep. Exactly. Yeah. And so you could really focus on engagement, right? Cause that's going to be the skill of the future that wins is what you and I are doing right here, right? It's how we interact with each other as humans. All of busy work in the background, it's going to be just sort of automated or a lot of it, right? Maybe not all of it, but a lot of it is going to be automated. So ⁓ is what's really going to count. ⁓ meeting is what's really going to count, not prep.
+
+Jeff Breunsbach: Yeah, and when you think about the deck and the like you think about, guess, like some of those outputs in the documents that your team is creating, have you all also gone to like standardize those already too? Like with Claude almost where like.
+
+Jay Nathan: Yeah. Yeah, we're starting to. So Claude has something called artifacts. So you can upload a standard template and make it part of that skill as well. We haven't quite gotten to that on that one, but that's going to happen in the future. And that's part of it too, right? Don't make me format anything anymore. that way I can keep brand consistency and ⁓ you know,
+
+Jeff Breunsbach: Cool, yep. Yeah.
+
+Jay Nathan: One of my pet peeves is getting a deck and it's got 15 different fonts in it and this has the wrong logo and the wrong colors. And it's like, what is this? can't even like, that's just a me problem. That's an ADD problem. I can't even think when I see that about the content, but you know what I'm saying, right? It's irksome.
+
+Jeff Breunsbach: Yeah. Yeah. Yeah, we ⁓ similar that I'm working on right now too is I built. ⁓ think I talked about this probably earlier, but I think again we're small team and I think one of the skills that I've been looking at is like we just need to get more. I guess I'll call the customer facing content, but we need to get more preparation in our product content in front of our customer. Hey, this feature does this. Hey, we've got this capability. Did you know about it?
+
+Jay Nathan: Yeah.
+
+Jeff Breunsbach: you know, our product team is running lean. And so to me, rather than like waiting for that to happen, I built a cloud skill that our team can use now that is essentially, it goes through a bunch of questions that we, it'll ask you, but like at the end of the day, what it's basically is like, where's the source information that you want me to build this from? And like, we have a bunch of notion stuff where, you know, we have a bunch of notion docs that our product team puts together. ⁓ But again, to me, like you said, it's not. It doesn't have our logo. It's not something that we can easily PDF. Like it's just, you know, so basically can you take all this notion stuff we have and then can you put it into a branded one pager that we can put in front of our customer? And so that's like a skill that we can all go with right now. And so like I used it the other day, like a customer was asking about a specific feature or capability that we had. I noticed we had the documentation for it, not an external facing one. So went and just posted a ⁓ a bunch of ⁓ notion links in there. Boom. One page spit out. And like you said, like rather than actually talking through, uh, I don't know, like rather than helping the team and like talking through with the team, like what does this document look like? Should we move this box here and box there? Like we were actually talking about, no, no, no. Like does the, like, will the, will this suffice for the customer? And like, what's the conversation going to be like, um, just in a different way than, than you guys were. But, um, so that's like, I called it product marketing skillset or product marketing skill, uh, that the team can now call. And, um, it just tries to take basically product language and how do you make it customer facing?
+
+Jay Nathan: Yeah. Well, and like everything you just described there goes back to the first point you made, or actually the second point you made about your takeaways from the thing. It's like, okay, what is the process now for identifying a gap, an action? Maybe it's automatic, maybe not, but triggering an action. It's like, Hey, we need, we an article on this ⁓ topic. actually client facing or a model or some kind of picture that we could show the customer when we're talking about in this particular instance. Then there's a pipeline of activities, right? Okay, go the knowledge-based article, grab the call transcript where the engineer described what it is, whatever it is, right? The core content behind it, go generate the artifact. You to review this stuff too. You can't publish a bunch of slop, right? Especially when you're selling a product to a customer. So you got to have a review step in there. That might be human in the loop. It might be another agent. That's a agent over time, but you've really to, for these processes, you've really got to...
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: You've got to figure all the steps out, right? If you want it to be fully automated or even partly automated, you have to all the steps of mapping it out. I started building a bunch of ⁓ automated ⁓ as rebuilt our website, I rebuilt our whole website with Claude code and it's because I can change it on the fly now. And you know how ⁓ I like change things, ⁓ you know, the fly as we learned. mean, that's part of what we do, but, you know,
+
+Jeff Breunsbach: Yeah. Yeah.
+
+Jay Nathan: I find myself literally as soon as I'm done with a call, initiating that pipeline, it's like, okay, I just had a call talking through this issue. we need an artifact on our website on that next time. And it's got to be branded like us. It's got to, got to feel like us, ⁓ it's got to be rooted in that core knowledge that I just heard somebody talking through. Like, I know. I come back to these, these call transcripts. They are the most valuable thing that we have in our company. ⁓ I'll you that right now. Like we use Fathom, it doesn't matter what tool you use. is so much gold buried in ⁓ call transcripts. ⁓ is unbelievable. ⁓ that's the source of a lot of my content, like your knowledge base, you know, ⁓ like describing with your knowledge base.
+
+Jeff Breunsbach: Yeah. Yeah, talk through this real quick and see if you agree if I should ⁓ pursue this. But one of the things I've been thinking about is so have all CSMs. would say in general, I think we probably record 80 to 90 % of our calls. There might be a customer here there that says, hey, you know, ⁓ can't or something, right? But I mean, it's probably got to be 85, 90%. And so there is a lot. Again, we have a lean product team right now. And I think there is this like that we have where like, ⁓ like our product team to be able to get in front of customers and like hear these things directly. ⁓ but it's like, okay, now I've got to, I've got to schedule a call. That's going to take a week. Now it's a half an hour from like our product team or maybe, know, then it's the customer and like, you know, in some cases, those are, those things are fine and great. but one of the things I'm thinking about right now about this, like feedback process and some of this early discovery that like our product team has been doing is. Could I actually coach our CSMs that if they hear, you if a customer says, it'd be great if X, Y, and Z can happen. You know, could I coach them to have two to three questions that they could ask around that? Okay. Tell me more. You know, what would you really want this to look like? What is the ultimate outcome you're trying to achieve? You know, what tools or systems is it connected to? But is there a way that I could almost like get them to basically on this call do that that we don't have to schedule a separate call with the product team? You know, in some cases like, yes, we need to. It's like a big enough thing, but like, ⁓ and then if I have the Fathom call transcript, is there a way that I could create an automation that's essentially like reading through and looking for these instances? of these from the Fathom calls transcript and then go and create a linear ticket for us that like is in almost like a PRD style format from what we learn and then paste the Fathom call in there, you know, and say, hey, go look at minute two or whatever. And so I just, I kind of have to think that there's probably something there that could expedite some of this product discovery for our teams and just get a little bit more of the voice of customer. You know, we kind of always talk about that. Like how do get the voice of the customer into this process? And so I need to figure out because I don't want to fully remove that from our product team. Like they need to be in front of customers and they want to be. But like got to be some delineation of like, okay, at this moment, this doesn't really suffice for a product call. Like this is more like we just got to fill out a bug or a feature request and the PRD for our team. So I know. I'm trying to think through like how to ⁓ that.
+
+Jay Nathan: I, I, I, I'm with you. Like, I think the most valuable thing you could do is start to get engineers on the phone with customers. This is a whole idea of forward deployed engineering. So let me take your example plus yet. So what if and I just heard ⁓ ramp does evidently, at least I think ⁓ everybody talks they're doing everything. I don't know actually doing it or not, but
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: What's to stop you from ⁓ person on your team, CSM, their own local build of your product? Not only do you go generate a PRD based on that, you actually run a full pipeline, let it go build a feature based on what the customer asks for, run it locally on their environment, create a pull request so that a developer can go pull that down and see what the customer was actually talking about, right?
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: let the, let the AE and the team coach the, know, the agent on ⁓ okay, no, you didn't get this right. You got that right. Like ⁓ it better and then submit a pull request so that the team could actually go look like, what if you could just go all the way? I think that's what I, when you talk about the, crossing chasm, the early, early, the innovators, that's what they're evidently doing. And they're giving it to everybody on their team. You talk about voice of customer Jeff. That's where. You really, that's where you can really get way ahead of it, right? Now, all those things aren't gonna become product. You've gotta put some, kind of expectation setting and process around that. But as far as art of the possible, that is possible today. Like you can do that. Totally doable.
+
+Jeff Breunsbach: Yeah. I'm going to send you an article. So my buddy, Spencer has, you know, he's got a startup, and his CTO, he was just shut. He just wrote an article about this. I'll send you the article, but he's, I think he's, I think what he's describing is what you just mentioned where he essentially in linear has set up a process where effectively anybody in the company can create a linear PRD style ticket and it will automatically create ⁓ a branch of the code. It'll spin up a dev environment and then it'll basically allow you to go through and do that. I think what you're describing at like that level and all kind of still maintained in version control and it's got like it's all in the git repository. ⁓ like is just mentioning ⁓ how like he's like dude, I can I can go do this now and like this is like pretty amazing that this like spins up this whole dev environment like we can you know test these things out. I can like push all stuff and then like ultimately ⁓ like you ⁓ He's the
+
+Jay Nathan: Yep. Yeah. Is he a product manager or is he a... ⁓ okay, perfect.
+
+Jeff Breunsbach: He's the CEO, but he's like, I would call him effectively as he's the product manager. Like that's the one of the main roles he plays. And he's like the, he's like the expert in the field. He's the, he's the subject matter expert. And so he's like trying to use the customer to figure out, know, where they need to go. But I'll this article because he described it and it sounds very similar to what you just mentioned. And it is like, it seems pretty lit, like pretty wild to me.
+
+Jay Nathan: Yeah. I mean, we to remember that... All of this is enabling more direct engagement. And the companies who can get to the heart of the problem that they're trying to solve build specific solutions to that will continue ⁓ to right? ⁓ So, I don't want to discount, like look, number of engineer ⁓ job postings to expand out there. So, you know, people...
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: Should not worry about their jobs, right? But they, you absolutely should worry about your job. If you're not adopting AI back to your post, we should talk about your other posts about recruiting too, which is funny. like these, solutions still have to be engineered and durable for the long run too. So you want real software engineering to happen, but ⁓ that changing so quickly right now ⁓ that lot of the actual engineering work that has to be done is being, again, it's done by agents guided by humans. But those humans, the more intuition we can give them about the problem that they're solving so that they're building the right things, because you can build anything, and you build it so fast now. It's incredible. anyway, that whole topic gets me really excited, obviously. I mean, ⁓ you I mean, this is ⁓ certainly double-edged sword, but imagine, you know, every sales rep, every CSM being able to, you know, put ideas ⁓ into visual, right?
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: I think everybody, was in a meeting yesterday all day and a company about 1300 employees, ⁓ executive team. And the that they were saying is that there's nobody like customer that's not going to be technical in our company. Pretty much the sales reps are going to be ⁓ hands-on technical. services team hands-on technical is the CSMs. Everybody going to hands-on technical because. ⁓
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: some way, ⁓ we have to be able to like move on this stuff. ⁓ You're just writing documents anymore, you're actually building things for customers. it's wild.
+
+Jeff Breunsbach: Yeah. that is like another thing that I took away from this event that I didn't really mentioned, but like, a lot of people were talking about this idea of, ⁓ almost like a technical account manager. that really ⁓ forward engineer, technical account manager, but essentially like, the CSM role actually, morph into something that is like a technical resource that has some relationship that, you know, that can, convert, like be on the, on the front of the company and be the face of it be a relationship driver and like, think that's, I mean, that's the skillset I'm looking for right now. Am I, you know, when I look at like hiring a CSM right now, like I'm trying to, you know, like a bunch of my questions and the rubric and the way that I'm looking at these early candidates is, you know, ⁓ what's the most technical product that you've ever had to deal with, you know, explain stuff to me, explain something me that you think is highly technical and a very simple solution. ⁓ Cause like, just think that is the skillset that you want, ⁓ for us to like, for, us to be having as we go forward because.
+
+Jay Nathan: Yeah. That's good.
+
+Jeff Breunsbach: Yeah, I mean, I think if you can do the customer facing parts of it, think there's a lot more people in the world that can do the customer facing parts than we think. ⁓ but I need the backend. need the curiosity and technology. need you, you know, dabbling in AI about your own workflows and stuff. Like somebody a comment on my post yesterday, which is like a valid comment. That's basically like, there's no mention of AI in your job posting, which I was like, okay, that's fair. Like I'm going to actually went and updated it this morning, but I also like ⁓ there be. I shouldn't have to put something about AI in the job posting for you to give me examples about how you've just used AI in your personal life or in your day to day. Like if you're not using it in your personal life and you're not using it in your current day to day work, then whether I have it in the job posting or not doesn't make a difference because you're still not curious about it. You're not using it. You're not trying to be at the forefront of what you're doing. And so like to me, it still comes back to like, I ask a lot in my interviews right now about
+
+Jay Nathan: It's assumed.
+
+Jeff Breunsbach: Like tell me something outside of work that you've used AI for because it also doesn't, I don't think it helps us if you're just like using AI at work and then you go home and you're just like, cool, I'm, you know, I'm not using it. I'm not dabbling with it. I'm not curious. I'm not reading about it. Like We need people that are, again, trying to be great at their profession. And I think if you're trying to be great at your profession and you take it seriously, I think that means like you're continually trying to figure out what skills don't I have? How do I be at the forefront? And that means right now I'm trying to figure out how I adopt AI in my work, in my day to day work. And I just think that that's naturally going to bleed over to like, cool. I figured out what Claude was at work and now at home it's running our family. It's got my calendar. You know, it's like updating our calendar invites for like friends and whatever. Like I just feel like it's naturally going to start to happen.
+
+Jay Nathan: tell who's actually they call it being pilled by this stuff right? Like you can tell who's really tilled and who's not with some of these questions and I mean look it doesn't matter if you're a plumber if you're an architect if you're a you're ⁓ know an electrician if you're ⁓ CSM like the assumption ⁓ AI like ⁓ shouldn't have to put that in your job posting Jeff for that to be
+
+Jeff Breunsbach: Yeah, that's a good one.
+
+Jay Nathan: a requirement like why would you not? That just sort of comes back to the idea that like, no, this is not a bolt on skill. This is fundamentally the way work will get done. The way work is getting done already. And if you're not on board, like it's easy to see. but you know, to your point, you do have to bring everybody along, right? And people are at different stages and we still are at the point where we need a lot of the skill sets that people have.
+
+Jeff Breunsbach: Yeah. ⁓ go, go.
+
+Jay Nathan: It may not have been exposed to all the AI. So it's back to your point about demonstrating it at all levels. Like we have a show and tell coming up to your point on Friday with our team and they're going to see things that I've built and I'm going to see things that they've built with, with AI that they're doing with AI. But had, ⁓ wanted to make sure ⁓ I'm leading from the front on this, right? I'm building stuff. I'm scheduling the show and tell us this is a company wide thing. It's gotta be. ⁓
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: Sort of back on that whole thing, I think there's this idea, we talk about center of excellence lot in the work that we do with Pindo. And really like creating a center of excellence is like how you create a corporate capability ⁓ around right? ⁓ It's ⁓ who of provide like vets provides the standard tooling ⁓ again to your about ⁓ having standard tools.
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: Who's making sure that people are engaged in all layers? Who's scheduling the engagement touch points like the show and tells, the discovery sessions, the trainings, like that could be part of it. And then who's sort of pushing the idea that, okay, like we're using all this stuff, but how do we standardize it for the team? How do we get the most maximal use for the team? Not just individuals, of course, individuals are going to get that, but how do we make this a team thing? And then how do we measure the outcomes of it? That's what a center of excellence is to me.
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: And so I think, you know, one, one idea that, that people, you know, who are like at the conference that you were at, who listened to this podcast could, take away is, know, how do you go build that inside of your organization? doesn't have to be a big formal thing. It just needs to be a couple of people that are ⁓ of working with the CEO or working with the executives to say, okay, look like how are we going to standardize the use of this stuff ⁓ of the product, right? But maybe including the product too, because they're going to be faster and more innovative on it.
+
+Jeff Breunsbach: Yep. Yeah.
+
+Jay Nathan: than else. ⁓ But like you sort of build that practice within the organization, especially right now, we're trying to create new capabilities and transform organization ⁓ from ⁓ old of working to the new way of working.
+
+Jeff Breunsbach: Yeah. The, is actually something that we're going to do is we just did some quarterly planning. And so one of ⁓ outputs I think has been this idea of, yeah, do we go drive like team-wide adoption of AI? And I think we've been using it ⁓ and I like we've been demonstrating it, we haven't, almost like we created these, ⁓ like you said, these connections about like showing the work really, in kind of like, you know, we were on an offsite and I just showed like, here's something I did. And they're like, ⁓ that's cool.
+
+Jay Nathan: Yeah.
+
+Jeff Breunsbach: And like, could use that for and it's like, ⁓ yeah, we just, so I think we're trying to be much more intentional about it. So it's good to hear about the example you just shared about, you know, the Friday ⁓ show and tell and how your team's like bringing ideas to that. think it's a simple, you know, it's a simple way to, bring the team together and basically say like, you know, this is how we demonstrate what we're doing and what we're working on. it gives, I think gives people a little bit more of a, kicking the kick in the butt to like actually bring something and show and like share it with the company, you know.
+
+Jay Nathan: Yeah. So much good stuff here, Hold on. I wanted to show you something real quick, because ⁓ this is something you and I have been talking about for a long time. So I finally built my glossary on website. Can you see that? I got the wrong page out.
+
+Jeff Breunsbach: Yep. All right. Go ahead. Yeah, let's do it. ⁓ cool.
+
+Jay Nathan: Well, anyway, so Jeff and I have been talking for a long time about, you looking at that webpage? Can you see my screen?
+
+Jeff Breunsbach: No, I don't see anything right now.
+
+Jay Nathan: of, know, ⁓ technical, AI, aptitude, I can't even share my screen on Riverside. There it is. How cool is that? ⁓ it's, Jeff and I, a long, a long time, we've talked about having just like from an SEO perspective, ⁓ a, ⁓
+
+Jeff Breunsbach: And yeah, I was going to automate everything. We can't share our screen still. ⁓ that is awesome. Yeah. That's cool.
+
+Jay Nathan: just a big glossary on our website. Some companies have done a good job with this over the years, but like for all the terms that we use, like what is the standard term? How do we think about it? Having this glossary is nice from a, it's nice from an SEO perspective, but it's also nice from a, just from a, again, back to having like artifacts and resources that you can share with your customers that describe what it is you're talking about. So anyway, I generated this and was like, no, I just want a page for every single.
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: for every single phrase on here. Like this is not dynamic. This is just all HTML generated documents. And with Claude, can just pick them all at once.
+
+Jeff Breunsbach: So this is what. One of the things that I keep thinking about too is the artifacts that you were describing earlier, the hey, here's the progress, or the template, the Google Slides template and stuff like that, is I keep going back to could that actually be hosted on our site? Could that be hosted on Balboa site? And then it's a private page, somehow it's private for the customer. But then,
+
+Jay Nathan: Yep.
+
+Jeff Breunsbach: It just more seamlessly fits into all the other things that we're creating right there's blog articles There's other things that they could be like referencing and looking at and to me like that I don't know like that that to me starts to be how do you start to this stuff together?
+
+Jay Nathan: Yes. Okay. Yeah, yeah. Okay, so ⁓ I created this. Exactly what you just said. I created a partner portal for our partners to log in. And if you have an ⁓ email address with that partner's domain name, you can actually log into it. Or if you have an email address with our domain. I just did this, let me log into it. But what we've got here is exactly what you said. It's content that I want to be behind a firewall. So this is content for our partner, basically sales teams and customer success teams. Like who is Balboa? Like how do you use us to your competitive advantage? Like it sort of tells our story here. And then we've got resources. And so like we created a resource on like what's the difference between
+
+Jeff Breunsbach: That's cool.
+
+Jay Nathan: this product and your product, this other product and your product. ⁓ But exactly what you're saying, and Jeff, my mind's sort of racing with this stuff. like, well, why couldn't we just create, like, there's no reason you couldn't just create a custom page for every individual person that you want to talk to, right? Not just from a partner standpoint in our world, but your prospects, right? Every individual person in the company they work for, you could create a custom page for them.
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: And sort of incorporate that into the value proposition of what you're what you're trying to do So anyway, I got some ideas swirling here like you just start running on this stuff and you're like, okay I can do this and I could do that. I can just keep going and going before you know, it's like, okay This is a product now, right? my product. Could I could I generalize it in some way but Anyway exactly you just said. Yeah
+
+Jeff Breunsbach: Yeah. That's cool. Yeah, I was just writing a post. I think I wrote a post about that too, like treating CS as a product, you know, like in starting to think more and like product design about like this, you know, the whole experience. Like it just has me like, like you said, like each of these things, um, like has me down that path to, um, all right, cool. Uh, good discussion felt like, you know, some insights from, uh, 60 people up at a, event, I think talking through.
+
+Jay Nathan: Yeah.
+
+Jeff Breunsbach: some of the ideas and ways that we can execute team-wide adoption of AI. You mentioned some of these specific things that you guys are building around some of the Google Slides templates and some of the co-works or some of cloud skills that you guys are developing to get feedback and then kind of wrapped it up here with some show and tell. So I thought it was good one. Got some good stuff in here.
+
+Jay Nathan: Yeah, good stuff. We'll do it again next week.
+
+Jeff Breunsbach: All right.

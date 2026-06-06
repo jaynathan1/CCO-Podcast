@@ -1,0 +1,50 @@
+[Summary — full transcript not available]
+
+EP005: Building Predictive Customer Success with AI w/ Justin Chappell
+======================================================================
+
+What does world-class digital customer experience actually look like? 
+
+In this episode, Justin Chappell, Head of Digital Strategy at OneTrust, breaks down the evolution of customer success from reactive firefighting to predictive, AI-powered engagement. Whether you're building your first digital CS motion or looking to integrate AI agents into your customer journey, this conversation offers actionable insights.
+
+KEY TAKEAWAYS
+
+- The CS Evolution Framework: Why moving from reactive → proactive → predictive requires fundamentally different thinking (and why proactive is closer to reactive than you might think)
+- The 3 Pillars of World-Class Digital CX: Personalized, Predictive, and Digital-First—and how to operationalize each
+- Dirty Data Isn't a Blocker: How predictive models can actually help you identify which data matters while learning from what's usable
+- The Power of Simply Asking: Why the best renewal signal is giving customers three options—Yes, No, or Undecided—and how to act on each
+- Onboarding That Works: The pilot process that cut first-time-to-value from 44 days to 8 days (and the customer feedback that made it possible)
+- The Future CS Team Structure: New roles like AI Architect, Knowledge & AI Readiness Specialist, and Business Value Architect
+- Monetizing Customer Success: How success packages create recurring revenue while delivering differentiated experiences
+
+ABOUT OUR GUEST
+
+Justin Chappell is the Head of Digital Strategy at OneTrust, where he oversees digital customer experience for 93% of the company's customer base. He's known for keeping things simple and saying what others are thinking.
+
+Connect with Justin on LinkedIn
+
+CHAPTERS
+
+- 01:17 - The Evolution of Customer Success: Reactive to Proactive to Predictive
+- 04:11 - What "Predictive" Really Means (And Why It's Different from Proactive)
+- 08:44 - Dirty Data Isn't a Blocker: How Predictive Models Actually Work
+- 12:09 - The Truth About NPS Response Rates and Vanity Metrics
+- 20:49 - Starting from Zero: Implementing AI at OneTrust
+- 23:30 - The 3 Pillars of World-Class Digital Customer Experience
+- 31:10 - Lessons Learned: Roles, Timing, and Relevance
+- 35:39 - Building the Digital Tech Stack: CRM, CSP, and Community
+- 42:15 - Customer-Facing AI Agents: The Agentic CSM
+- 46:10 - The Future CS Team: AI Architect, BVA & New Roles
+- 53:38 - Managing AI Agents Like You'd Manage Your Best CSM
+- 59:24 - How AI Changes the CSM Role (Hint: They Can Handle More)
+
+---
+
+About the Show: 
+
+Chief Customer Officer Podcast is a show about real strategies for customer-led growth in the AI era—from leaders actually executing, not just talking about it.
+
+Your Hosts:
+
+- Jay Nathan – CEO of Balboa Solutions and Co-Founder of ChiefCustomerOfficer.io 
+- Jeff Breunsbach – Head of Customer Success at Junction and Co-Founder of ChiefCustomerOfficer.io

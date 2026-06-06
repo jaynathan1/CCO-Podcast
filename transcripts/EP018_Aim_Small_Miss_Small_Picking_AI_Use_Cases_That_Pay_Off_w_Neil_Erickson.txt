@@ -1,0 +1,248 @@
+Title: EP018 Aim Small, Miss Small: Picking AI Use Cases That Pay Off w/ Neil Erickson
+Published: Thu, 21 May 2026 12:44:20 GMT
+Source: The Chief Customer Officer Podcast
+Transcript URL: https://hosting-media.riverside.com/media/podcasts/27d22f75-5963-48ed-be6f-a65bf4d92416/episodes/da60f4d7-fde8-42f7-97cd-34dd23674463/transcripts.txt
+
+---
+
+Jeff Breunsbach: All right, welcome back to another episode of ChiefCustomerOfficer.io podcast, which we might have to rebrand this. I don't know if it's going to stick with our uncommon stuff, but ⁓ Jay, another Tuesday. What's going on?
+
+Jay Nathan: ⁓ yeah. I'm in Boston as I just shared with you, was here for a, an event with our buddy, Jeff, other Jeff last night, infinite renewals. And, ⁓ we had like 50 CS leaders in a room at HubSpot, which is cool. ⁓ so it's good. Been a busy couple of weeks with travel and whatnot, but we got a guest today, which is fun. So my friend Neil Erickson, who most recently came from. Equifax. How long are you there, Neil? Seven years? Is that right?
+
+Neil Erickson: They're about seven years. I think, ⁓ give her a month. Take, I think about 10 day differential there, but yeah, seven, seven years.
+
+Jay Nathan: Okay. Okay, we'll give you seven years. We'll give you the seven year anniversary. But Neil and I met, ⁓ Pendo actually brought us into an opportunity ⁓ just to get to know the Equifax team a little bit. Neil was there, we sort of hit it off. We stayed in touch after we had an initial meeting with him and then spent some time together at Pendo's conference a couple months ago and here we are and you know, we... there's definitely some common interests here. anyway, Neil's got this incredible background at IHG, which is a big hospitality company, ⁓ Equifax, which is one of the biggest data and analytics companies in the world. ⁓ So the kind of challenges that Neil has seen at scale are sort of like unique. And then now, and he can explain to you what he's doing, but he's sort of taking everything he's learned in that world and applying it in the AI side of the world and in his own consulting work. And so he's just a really fun guy to talk to. And so I wanted to introduce him to you, Jeff, and talk with him for an hour together. So that's what we're doing.
+
+Jeff Breunsbach: ⁓ what's a what's a good Sunday morning look like for you what's like your ideal Sunday morning.
+
+Neil Erickson: ⁓ shoot. Well, I've got four kids, so I spend a lot of time doing, running around from sporting event to sporting event. And usually that is Saturday and Sunday afternoon. So Sunday morning is trying to catch up on all the other stuff that I wanted to do during the weekend. sometimes it's painting, like, you know, doing some art. Yeah, yeah.
+
+Jay Nathan: Oh yeah. Turn your camera. Turn your camera, Neil. Show him. This guy's like, he's like Bob Ross.
+
+Jeff Breunsbach: Whoa, getting a little glimpse there.
+
+Jay Nathan: Can you see it?
+
+Neil Erickson: Yeah, can you see that? ⁓ is it keeping me in frame? There we go.
+
+Jeff Breunsbach: see a little bit of it. Yeah. ⁓ wow.
+
+Jay Nathan: Yeah, mean, incredible. I saw this in his background. I was like, wait a minute, is that what is that behind you? He's like, that's an easel. And I'm like, is that do you pain? He's like, ⁓ yeah, it's mine. And it's incredible.
+
+Neil Erickson: Well. It's, yeah. Yeah, I have to be careful. If I say I'm painting people, well, why are you always painting something in your house? I'm like, no, no, painting pictures.
+
+Jeff Breunsbach: Yeah, painting painting. just had to paint my garage and that was like my least favorite activity. it's cool. ⁓
+
+Jay Nathan: You
+
+Neil Erickson: Yeah. Yeah, so cool. So that's basically catching up and painting on Sunday mornings.
+
+Jay Nathan: Uhhh... Alright Jeff. That's great, man. That's very unique. You don't usually hear that answer. Alright Jeff, so what's going on with you?
+
+Jeff Breunsbach: Not much. I have a sick kid at home. My wife is also ⁓ three and a half weeks away from giving birth to another baby. So we're just trying to survive over here. But at work, think the one big thing I'm working on that we just started to roll out to the team is, ⁓ so I've got a renewal motion going now with some of our automation and AI kind of hooked into it. And so
+
+Jay Nathan: You
+
+Jeff Breunsbach: The last step of that piece that I'm working on right now is to ⁓ effectively take ⁓ a template. So we've essentially now got it so that there's a series of steps that the CSM is doing, it's automated to a degree, they still have kind of a human in the loop. And the last thing I'm trying to work on right now is basically actually trying to build out a templated proposal ⁓ using AI based on all the information we know about the customer. So basically, can we spin up the V1 of the proposal so that CSM doesn't even have to take that first step. And it's branded in our colors, it's following the format, it's got a template that's built, and then it'll create that Google Doc, and then it'll attach that to our deal record. So that's like the kind of last step of that renewal process that I'm working on right now, which is ⁓ a little bit challenging to try and get that right. But ⁓ yeah, that's something I'm working on right now that I'm excited to try and hopefully get over the line.
+
+Jay Nathan: ⁓ What's challenging about getting it right? Because this is where people are getting stuck. this is like just great fodder, right? Like this is where the rubber meets the road literally on how do you use AI to get stuff done? like say more, Jeff.
+
+Jeff Breunsbach: so I think there's two things, ⁓ two things that are stopping me. One is ⁓ a problem that I think I can fix. The other one is, ⁓ maybe just, I don't know enough, ⁓ and you guys might enlighten me. So the first one is just the context problem. Like I still don't have all the context that I need into, ⁓ we use our, we use plan hat as our CSP. And so, ⁓ just missing some pieces of context and sick. And the biggest piece for me is that we're a Slack based company. And so.
+
+Jay Nathan: Yeah.
+
+Jeff Breunsbach: Getting Slack messages basically into ⁓ plan hat and trying to then use that as context is like ⁓ just a big piece that I'm missing. Again, I've got to solve for it. got NAN. ⁓ I just need to go kind of wired up. But essentially like I can push those messages into a deal record based on like our Slack IDs and whatnot. So ⁓ think I've got to solve for it. I just got to sit down with my friend Claude and go execute. ⁓ The second one, and this is something I haven't dug into yet, and so you guys might tell me or teach me something, but ⁓ I'm trying to figure out how can I, I guess, create a new Google Doc template and then with actually all the stuff that I need. I feel like I can get that done in Cloud and have it, you kind of do that process and then attach it to a deal record. But I just haven't looked into it enough. And so that's like the part I just haven't really researched at all is like, you know, can I actually have a templated proposal that like, I guess has certain blocks that like Claude knows that those are the places to edit versus like the non kind of editable pieces. So I feel like, I don't know, I feel like it's probably doable. I just haven't researched it at all, but I'm curious if maybe Neil, have you done anything like that? You know, have you kind of seen how, to execute something like that where we can basically get Kind of a proposal created.
+
+Neil Erickson: Yeah, there's different skills that you can sort of load with Claude and some of them are going to be, ⁓ it depends on how you want to treat the doc and you might have more success one way or the other. And so starting with MD, having an MD file that then you have a templative form file that it understands the blocks in there and knows how to take parts of the MD and move it over. But you can also do something with Playwright, for instance, and have it use a Playwright MCP to create, and you almost treat the form like HTML, and it will build the HTML out in a more efficient way, and you can visually test if it's doing the right thing that way too. So anyway, there's, and probably in the next hour, there'll be a new feature released that... that does it slightly different and more consistently and with other trade-offs in blocking effects. Yeah.
+
+Jay Nathan: Yeah
+
+Jeff Breunsbach: I haven't heard it I have not heard of playwright maybe give me like the thirty second what is playwright.
+
+Neil Erickson: Well, it's a good visual tool for ⁓ creating websites and being able to programmatically approach building something and what Claude ends up doing with it. uses the MCP skill to visually... work in a space and you can actually test and it can explore, can build test cases that go through use case using it because it's seeing what's going on in a way.
+
+Jeff Breunsbach: Yeah, that's, go ahead, Jay.
+
+Jay Nathan: I'm just gonna say there used to be a product. Sure, there still is a product called Selenium, which allows you to automate like front end user testing. And I think there's another open source version of it too. I've actually not played with Playwright, but it does come up a lot in in AI circles. But it's like, how do you test things that that have UI, you have to automate that through the front end of the of the platform, right?
+
+Neil Erickson: Mm-hmm. Yeah. Yeah. Yeah, exactly. that's, I've had decent success with it. It's been a little wonky at times, but it's been pretty ⁓ good for creating content or being able to get content into a format that's visually roughly what I wanted. And then also having sort of a test loop where an agent that's going through and sweeping a release and want to see if it consistently applies the right right blocks and the right ⁓ formatting and so on. So but this is a common a common thing. Like how do you get from the MD world to something that's, you know, consistent and good for a client like you're trying to go I've got a I've got a quote sheet here. How do I make sure this stuff's in the right form with my branding message and you know the right imagery and you know the image the logo images and like a giant banner across the page or this tiny little like minuscule thing and Yeah, I think figuring out the MCP world will help you a little bit on that
+
+Jay Nathan: Yes.
+
+Jeff Breunsbach: And it seems like this, this is like the, or like, feel like what you've, you're describing to you, like the agents, uh, kind of like front running some of these processes, right? Like that's the part that I feel like, um, I haven't heard CS leaders talk about probably enough, right? Cause you start thinking, I mean, at the end of the day, think like where most CS leaders are, are even playing today is internally focused tools, right? Like I think everyone has, I mean, obviously there are like the
+
+Jay Nathan: So, I-
+
+Jeff Breunsbach: ⁓ external facing tools that, know, Sierras of the world and things that people are probably like leveraging, but it feels like most like customer success leaders and B2B environments are like focused on internal ⁓ use cases for AI. And even in that, like, I think some of the stuff that you're talking about is, is probably where they're lacking, right? Like is the, how do you, how do get these agents to basically validate and make sure that like this information is correct and that it's actually front running some of the processes that you want to run.
+
+Neil Erickson: Yeah, I mean, everybody's struggling to keep up or introduce and keep up things. And so starting off with internal process, because we all know we all have internal processes that are are a mess or not optimized or could be better to remove friction from an overall workflow or, I don't know, remove time to onboard a customer, remove time to respond to a a lead, get a quote out, so on and so forth. There's a lot of things there that are safer to play. And ⁓ it's the right thing to do. And then as you shift a little bit outwardly, it's going to be things that are a little safer there too, which are things like can we get more information in a richer context in front of the customer to explain something or ⁓ explain why. You know, at Equifax we had agents that were part of the, you let's say a credit report flow to help somebody that might not be an expert in credit risk analysis understand why there was something. And so then they can sound, have more information and explain to their customer in a richer way what's happening. Things like that, starting pretty simple and then working your way to the complex, which is. Can I trust that this quote that's going out automated from a system is gonna have the right numbers and facts in it, or am I under-quoting because I'm using this thing? I mean, you have to build up to that trust level.
+
+Jay Nathan: That's the extreme version. think there was, there was a story late last year where I forget which airline it was. I don't think it was Delta Neil there in your hometown, but it was, there was an airline who basically some agent gave away a bunch of very low cost seats on the flights and whatnot. I can't remember the details of that story, but so everything you guys are saying, um, can I tell you about this event that I was at last night and like some of the things that I heard? And cause I think like what you're saying is Jeff, you're, you're like in this microcosm that I heard at scale last night from 50 people. So we did this event. It was like an old GGR event. Jeff, we had 50 people there. We did a little presentation, little activity, lots of discussion amongst the folks who were there at their tables. But, ⁓ a couple of things I heard. Number one is there's a lot of people in these companies. And by the way, this is big and small that are, ⁓ big companies and small companies where there's one person trying to do all this themselves. Like they are the solo operator who's trying to figure it out and they're struggling with the same little ticky tacky things that you are. And one of the people said, you know, I'm doing all this stuff and I'm trying to build these things, but it keeps hallucinating and it gives me this crazy wild stuff that's not even useful. So that leads me to point number two, which is a lot of these companies aren't building structural
+
+Neil Erickson: Mm-hmm.
+
+Jay Nathan: capability around AI, they're using Claude, right? Or they're using Chad GPT at the user level. And whatever that user puts in to Claude is gonna dictate quality of what they get out. There is no context layer for these organizations at all. Well, I shouldn't say at all. Some of them, yes, there's obviously a continuum. But I'll say my overall observation from this group was that everybody is less mature than I thought they would be at this point. One of the most interesting things that I heard from one of our friends, Jeff, you will know this person. I won't mention their name on the here, but they're paying for their own clawed license because their company won't even give it to them right now. So of course that's a tooling issue and a context issue because they're not, if they're using your own independent clawed license, they're definitely not connected to any of the infrastructure where context lives within the company. ⁓ So a range of issues like that.
+
+Jeff Breunsbach: you
+
+Jay Nathan: folks are making progress. They've got top-down mandates coming from the board to the CEO and the CEO is then championing it and pushing it. And I still think companies with founder CEOs are probably running faster on this stuff than professional CEOs. So those are a few of the things that I picked up on last night.
+
+Neil Erickson: Yeah. I mean, I mean, you're hitting on it. I like the phrase you use, tiki-taki. There's a lot of tiki-taki things like I can't get this formatted right. How do I how do I present this in a way that's going to be consistent or look have my brand look good? But then there's going to be huge ⁓ problems to solve for companies. And you mentioned context, context memory. ⁓ this whole world, you know, how you get agents to be quick on task and skilled the right way and not have bloat of, you know, knowing everything about your universe and then other stuff that causes it to get confused is tricky and it's not straightforward and it isn't, if you're not, computer scientist or something skilled in that domain, it seems a little bit more complex. And being able to spin off the workers in a way that defines their context, whether it's they're rooted ⁓ in a directory area or you've got it hooked up to certain files that tell it, this in this way, don't worry about all this other, don't even mention the other stuff. That's where I think a lot of people are gonna bump into the walls. So they're gonna be struggling because the agents get smart or you know polluted with things that aren't relevant and start doing things you know in a not intelligent way I would say. But yeah.
+
+Jay Nathan: It's like if you took somebody off the street who knew nothing about your business and you said, hey, I want you to create a proposal, a renewal proposal for me. They'd be like, okay, I'm gonna just take everything I know about the world and I'm gonna throw it into that renewal proposal. That's the difference between saying, okay, here's the instruction book that you follow. So go into a little more depth, on when you say context and memory, explain those concepts.
+
+Neil Erickson: Yeah. Yeah. Yeah Well, okay, so, and I'll take the example that you gave, like somebody off the street and having no context or no understanding about your business and putting a proposal together. That's one level of like, you'll get a nonsense answer that might be actually okay because it's limited and it's trying to solve it with what the scraps that finds versus the other effect. ⁓ You pointed out a warehouse or a set of directories in your company that has a whole bunch of documentation in there. It's just everything. It's like the SharePoint world of ⁓ your company. And then you say, create me a proposal for this contract. Well, which bit of information is important in that SharePoint? Which ⁓ of the 12 horrible proposals from the first year that you were running should it ignore?
+
+Jeff Breunsbach: You
+
+Neil Erickson: which ⁓ documentation about your standards, the version 1.0 or something that was published last week, ⁓ so on and so forth. And how much bad documentation, bad information and things that were just stored there for the sake of it. So it's pulling that in, it then is polluted, it's confused, it will say something that is trying to make sense of it. And that's the notion of context. you need to pull in to be useful for a task or how much you need to pull in to have the right information stored. So when the task comes up, you go, okay, I got that. Yep, I'm going to use it and I'm going to put it out there. And it's kind of like if you're running, I'll put it this way, for people that are new to Claude or Gemini, Claude specifically, if you're a session for two weeks. Right, you're gonna one, burn through tokens like mad, because there's so much information it's using to ⁓ make a request. But then two, it starts getting inaccurate, and you're not sure which bits it should pull into the conversation. Or you can go, you know what, I'm gonna do a slash clean, clear, slash clear, and then, or a compress, which compresses the information down to just the right things. And, and, or you can say, let me just start a new session within a directory that only has certain information and certain MD files in it. Those sorts of things will make it so it's a new thing and you can start loading new, new files, new bits of information to make it skilled on the task you're going to ask it to do. The memory side is like, Hey, we did this thing. And let's say you go back and say, ⁓ to Jeff's example of, of, ⁓ creating a file. that's formatted a certain way and loading it with information. Well, it starts doing something, it says, hold on, no, use the Claude MCP skill for a playwright to be able to look and visually find the field and put the information there in that div. You can load that into its memory to say, when I do this thing, I learned that I need to do this and this is how I'm gonna approach the. So the notion of context, which is the context of the world that you're working within and memories, like we figure something out. Next time I do it, I should go right to that skill instead of fumbling around for 12 iterations, bumping into the wall until somebody tells me to use the Playwright MCP, right?
+
+Jay Nathan: The feeling I got from some of these people last night was of hopelessness, Neil. Like, I'm doing this, I'm doing this thing. No, it was really, I mean, it was a little sad actually. Not pathetic sad, but just like sad that people are spending this time. They're like, yeah, I'm doing this thing. And it's almost like a Rube Goldberg machine, right? It's like, I've been told I got to use AI, so I'm using AI. And then I spend all this time correcting the outputs of what it's giving me. it's because the inputs aren't good, right?
+
+Neil Erickson: ⁓ no. Yeah, yeah. Yep.
+
+Jay Nathan: not their fault, but they don't have the right inputs. They don't have the right, even the right training to go do what you just described. So.
+
+Neil Erickson: Yeah. Well.
+
+Jeff Breunsbach: This is like the, mean, if you kind of, if you kind of look at the market and like what the market's telling us, right? Like open AI and Claude are spinning up services businesses because they're realizing the same problem, right? Like they are, they're looking at their businesses and they're saying, ⁓ no, like, you know, we have is we basically have like, we have a bunch of individuals that are burning through tokens and it's giving us a lot of money right now, but that's not, that's not going to last long. And that's why they're like, ⁓ shit, we need to spin up these services businesses because I need to go into all these businesses and basically help them build. think like what you guys are talking about, right? Like build the infrastructure, build the right protocols and the right thing so that like this now is something that lasts in that business for 30 years, not just an individual who's spinning their wheels for one who's burning through a bunch of tokens, right? Like that's, and that's what the market's telling us. Cause all, cause now everyone is everyone and including Neil, right? Is seeing this as an opportunity saying, Hey,
+
+Neil Erickson: So.
+
+Jay Nathan: Yeah, us too. Yeah.
+
+Jeff Breunsbach: How can we go help you, how can we, yeah, how can we go help you spin this up?
+
+Neil Erickson: Yeah, absolutely. so what I've been doing, so yeah, I've worked for a lot of large organizations where we did some stuff in the AI space. I'll say, you some of these businesses have years of AI experience, but it's all, I would say on the data side, lot of machine learning models. risk model analysis, things of that nature, and then moving closer to the customer in recent years to going, well, how do you present things in a more ⁓ organized and intelligent way that helps the customer at a different level than, let's say, just getting a pure output of a report that tells them something. ⁓ But what I noticed in the past, the trends over the past few, Let's say decade the big companies have teams of data scientists the big companies have ⁓ people that are specialized in in some of these skill sets and and or they're throw able to throw a bunch of money in a direction to get the skills yet to figure it out to ⁓ You know fumble through things for a couple iterations and then figure it out and in the gaps that existed with small business ⁓ prior to this ⁓ are just gonna get bigger. They're getting bigger. ⁓ How do ⁓ you get something going in a way that's going to help my business? I need to automate this thing so I can take a call and give an answer back that's intelligent within an hour timeframe rather than get back to them a day later and lose the lead that came in through that call. Basic scenarios. ⁓ And so I started down this avenue to go, well, how do I pull together work stream, workflows? What's the most common pain point for a small business owner? How do you apply some of this technology in a way that's scalable? you can't address small companies the same way you do with large ones. Then the validation, you just mentioned ⁓ something is very interesting. Like the companies themselves, like Anthropic is going, hey, I've got cloud for small business, let's roll it out. But the problem is it's still only a toolbox. It's still just a thing, a bunch of tools lying around and for a normal person to be able to understand how to use it well, there's a big gap from here to here. my premise is like having some...
+
+Jay Nathan: Yeah.
+
+Neil Erickson: Blueprints cookbooks, whatever you want to call them two patterns of doing business on these platforms that you pick up you put the pieces together you have some scaffolding to put around it and you're able to do kind of what you're trying to do for your business, which is Hey given how about it? Can I get an automated quote back based off of some high-level parameters? So the customer knows yeah I should schedule appointment and then have the scheduling appointment go right that they have software for all the scheduling they have software for all the half optimization, they have software for calls, they have software for CRM. So how do get that also is working together to give intelligence back and doing it at a level that small businesses can succeed in the future rather than being stomped on by the larger competitor that has the capability, has put the brain power in and so on. So I went off on a tangent there because it's something that's very near and dear and passionate about at the moment. ⁓ But ⁓ yeah, I think that
+
+Jay Nathan: think it. Sorry to me to catch off. think the Anthropic announcement just this week that you're referring to is that they launched Anthropic for small business, which is basically a pattern library, right? Like here's a bunch of agents that you could go use. Jeff, I think your buddy Alex Lieberman is his company is like one of the preferred partners for going to like agency partners for going to deploy that in small business. But do you guys know, they build, did they launch like a whole partner network?
+
+Neil Erickson: Yeah, it's all good.
+
+Jay Nathan: because that would be a better answer to me is to say, hey, we've already identified 200 partners that can help you take all this capability that we've created in Claude and turn it into something meaningful for your business at a very low cost. And here's how you get in touch with all those people in your area or in your industry and domain. But I didn't see that. I just saw a couple of announcements that were like, hey, we're this or that partner.
+
+Neil Erickson: Yeah. Yeah. I didn't see that either, what I did see somewhere was their campaign for the launch and being able to do community outreach in some way of here's how you use this stuff and going around city to city, spending your money on education. Well,
+
+Jay Nathan: Yeah.
+
+Neil Erickson: they're going to have to have that follow up, that follow through that's like, here are the partners that can help you. Because the reality is like a person with five people working at a company who's trying to run a, let's say it's a trades company, a plumber, they're not going to have time to tinker that much. They're not going to sit there. And by the way, the tools that they're only connecting are just top of funnel tools. They're not like all the other stuff. So,
+
+Jay Nathan: ⁓
+
+Neil Erickson: I think in reality that that partner network is going to be needed. ⁓ And there's so much opportunity there across the board.
+
+Jeff Breunsbach: So they so Claude actually announced about two months ago, a hundred million dollar investment into their partner network. And so they have like a whole partner's page now with like a library, you you can sign up. It's, know, I think like some of your standard partner stuff, Jay, I just sent it to you. So I think, yeah, so I think like they are, I mean, I think like it seems like they're trying to, I think, create an ecosystem around this for sure. It would make sense, right?
+
+Jay Nathan: Yeah, yeah, I'm looking at it.
+
+Neil Erickson: Yeah.
+
+Jeff Breunsbach: I think like the one, the one thing I'm thinking about right now is like a takeaway from today's episode is like we're, we're talking a lot about context and trying to get some of these, like some of the infrastructure built, like where, like, where does somebody start with that? Like where do you think like, what is like something applicable that somebody can go do? That's like, Hey, if you're starting to think about deploying agents and you need to build this context on your business, like what's the, I think Jay, you've said it maybe before, like turning your company into code kind of an idea that like seems like.
+
+Jay Nathan: Yeah, yeah, yeah.
+
+Jeff Breunsbach: It's kind of in this world, but yeah, what do you, how do you guys think about approaching that problem for somebody?
+
+Neil Erickson: I go back. Jay, you go first.
+
+Jay Nathan: Well... No, no, no, go ahead. I was just looking at this barter page and I have a ⁓ funny observation like Accenture, BCG, Booz Allen, Cognizant, Deloitte.
+
+Neil Erickson: Yeah, they're going to spend time with a small company, ⁓
+
+Jay Nathan: And by the way, small to them is a 5,000 person company, right? It's not, it's not, you know, the local guys. So like the partner network that I'm talking about, it's probably got thousands of partners in it. Anyway, sorry, Jeff, I completely distracted from the answer to the question you answered or you asked.
+
+Neil Erickson: Yeah, yeah, yeah, Yeah, yeah. So Jeff, I would say I'm a firm believer, even in a large organization, you know, the kiss philosophy, you know, keep things simple, stupid, right? And I think really coming down to fundamentals, you got to look at if it's very important to have the right context in which you're working on, maybe you should start thinking about that first. Do we have things organized in a way that is going to be useful for the tasks that we're going to try to tackle? ⁓ And information management. And we all know most businesses have done a really good job of managing their information, right? ⁓ It's the thing that people don't like doing. don't like cleaning their room. You don't like ⁓ raking the leaves in the fall. All the chores that we have in a business, information management is tedious. It's boring. It's the stuff you kind of go, yeah, yeah, yeah, we'll do that tomorrow. We'll do that tomorrow. ⁓ That resource management.
+
+Jeff Breunsbach: you
+
+Neil Erickson: You know, do you have for them key systems in your world? Do you have easy access? Do you have the right API layer? And, and for those things, do you have the, the, the, rights or the, the access management to all that? Can you govern who's accessing what in a way that's going to be meaningful? ⁓ and is it scalable and light? And you start really simple, these things that in the computing world have been around for decades. We've been talking about API. I mean, I did API management with a blindfold. is so many times my kids would laugh at me. If I said API, everybody would laugh at my household because they were like, ⁓ there goes dad again talking about APIs. now it's got to be AI. I haven't done the poll yet in the house. So like, what's my acronym that makes everybody squirm and laugh at the same time? But these things that are like, they're like table stakes. We need to go back to some of those basics for a lot of businesses and make sure, don't have to solve world hunger, but just like what are the things that you need to do to pull together for the main use case? Pick a couple of use cases that are happening all the time in your business. They cost time and money or inefficiency. And look there and then look at the context, the information. the access that you need to the systems and start small. Like, start small and get success. you don't feel, Jay, that's so sad that everybody feels hopeless that you said earlier. Like, this is a world of wonder. ⁓ As a technologist, I've been bored for the last couple of decades in technology. It's been boring. And now I'm like, I'm like on fire. My brain's going a million miles an hour and I'm excited.
+
+Jay Nathan: Yeah.
+
+Neil Erickson: But yeah, there's a lot of boring stuff that needs to happen along the way to be good. And that's where I think, you know, having some workshops, some, spending some hours with your team going, let's identify those things, pull them off and actually task them to somebody to say, go fix this. We can't point it at the giant universe of our SharePoint or the giant universe of our, our ⁓ Confluence, you know, repository or whatever it is. You got to point it to you know, the right things so it can, it knows what to do in a smart way. That's where I would start.
+
+Jeff Breunsbach: It's, go ahead, Jay.
+
+Jay Nathan: the phrase. Sorry, I was waiting for you. then the frame, aim small, miss small comes to mind with all this. you know, I guess so many thoughts, by the way, like I left last night and the first thing I did was try to figure out, okay, like what would I, what are the three things I would tell all those people to do tomorrow based on it? And you literally just hit two of them. You said identify.
+
+Neil Erickson: Yeah.
+
+Jay Nathan: I'm gonna tell you what the third one was and you will agree, I'm pretty sure. But identify a couple of use cases that you wanna go deep on. Number two, assign a number to it. This is the one you didn't say, but I think you sort of implied it. Like what's valuable to even do, right? You've got to assign a number to it get the attention of the people that you need support from, which in these cases are the team, the executive team, the people who gonna invest in it. And then the third thing is like test feasibility by figuring out what content, like what data you need to make that use case work. Again, like LLM is like the world model for language, right? Like you need to think about like, how do I bring that down to the small use case that identified that's valuable? That's the feasibility part. But I guess like everything you just said, like there's so much work to be done. The other thing that I'm sitting here thinking is like, it takes so much effort to build this stuff right.
+
+Neil Erickson: Mm-hmm. Yeah.
+
+Jay Nathan: It also, there's a new cost involved, which is we've touched on it, but it's called token usage, right? Token usage is a real cost. And by the way, over the past month or so, it's really started to come to light that while we thought token cost was going to go down, it probably is not. And there's going to be a shortage of intelligence in the industry based on energy, data center availability, and just the
+
+Jeff Breunsbach: Thank
+
+Jay Nathan: the voracious appetite that the world has for AI right now, it's not gonna get cheaper yet. So I guess part of it is, like I sit here thinking, is the juice really worth the squeeze in all of this? Like, are we doing it just because we have to do it or because we think we have to do it? Or should we be doing it? But maybe it's back to the small use cases, right? Starting with specifics.
+
+Jeff Breunsbach: Yeah, like I think that's, well, I think a couple of things that I'm walking away with. So first of all, I guess to go back to like this, I think some of things Neil was talking about in terms of like infrastructure and data and stuff too, like I actually think part of this answer is actually asking Claude ⁓ or like whatever, right? To like actually help you like what, you know, how should I store information? How should I go clean this up? Like describe the problem and it's probably got a good solution for you. And then two, think Jay, to your point, like I do think that like,
+
+Neil Erickson: Yeah?
+
+Jeff Breunsbach: ⁓ there is this middle ground of like, what are the use cases that this makes sense for us to go into and scale? Like, again, I think some people have jumped to like, ⁓ we're going to replace all of our tools with, you know, AI built tools, right? Like I'm going to replace my CRM with an AI CRM. like, I think we've all kind of come down off that ledge because we've realized that like some of these databases are important in terms of like where we store information, like
+
+Jay Nathan: for sure.
+
+Jeff Breunsbach: you know, HubSpot's gone through 30 years, 20 years, whatever it is, you know, Salesforce, they've got all these war stories that essentially have built a platform that is like sustainable and has like good architecture. But I think there are like those things in between, like there's like the things in the cracks that like your team is spending time on that, you know, is a waste for a human to do that, like, and that's where you should be focusing your time and energy. And I think it's not like, yeah, I think like people have to get out of their mind of like, you know, your CEO is telling you to go.
+
+Jay Nathan: That's right. END
+
+Jeff Breunsbach: ⁓ don't know, remove every SaaS product from your P and L and like, you know, re-architect that, like that just seems to me like a waste of time versus like, Hey, actually, like if we could get 20 % more of your team's time focused on customers, where'd that come from? How would we do that? Right. And to me, like part of that is like renewals like right now. And part of the reason I'm building some of this, this, ⁓ this renewal motion is like, I am actually the one helping my team put contracts together right now because like, A, I wanted to do it for myself and B, I wanted to see where some of these pain points are for my team. And then like, this is painful. Like we've got a contract. All I've got to do is just put it into the proposal format and like, you know, and then actually getting an order form out the door based off that. And so like, I'm starting to see this, this problem directly. And it's like, cool. I'm spending my own time three to five hours a week, probably putting order forms and helping my team review proposals and stuff like. that's three to five hours I could get back and that's probably then three to five hours my team could get back and I have four people on that team and that's a good 20-ish hours that I can get back for our team in a week that is spent on basically ⁓ proposals, order forms, things that we're putting in front of the customer that we want to because it's going to be an expansion or a renewal, but ⁓ I don't think it's the valuable use of where my team's spending time.
+
+Neil Erickson: Yes, after you spend the 300 hours getting your renewals workflow done, right? Yeah, I think, yeah, just the button, the auto button.
+
+Jeff Breunsbach: Yes, true. That's very true.
+
+Jay Nathan: I got a better idea. Just do auto-renew. Right? That's like, why are we doing any of this?
+
+Neil Erickson: So I love this discussion. I love this discussion because it's coming down to something that, ⁓ you know, as product professionals, you get it, if you're managing a product line, managing, let's say a technology line, you've got, ⁓ how do you do your prioritization? How do you know what to spend time on? And, you know, we have these disciplines that we've created over the years, like weighted shortest job first, right? You can start there back on putting the number on it, Jay, to go like, all right, I got this list of things. said, I think they all look good. So how do I go? What's the biggest impact I could have for the least amount of, with the least amount of work to gain some, gain some traction, get some reps in, get confidence, build a little swagger in the team that we built this thing, you know, all that. And then, and then get to the more complex ones, but there's always going to be something else that pops up. ⁓ within that prioritization. think, you know, going back to the role that leaders play in their company, where do you focus your time to get the return on investment? ⁓ And how do we make sure we're not burning the new resource, which is tokens on things that are, you know, really somebody chasing a shiny object or... ⁓ You're doing something because it sounds cool. Like the reality is we all have enough problems in our world that we can pick a lot of things that are low hanging fruit right now and, and solve, solve for that and look really good because those, those things that are low hanging fruit usually have a big, ⁓ cost savings, ⁓ time optimization. ⁓ it might even be, ⁓ you know, a customer from a customer perspective, making your company look better. ⁓ So then your NPS score goes up because, we removed this friction point because we were able to do this thing in our overall environment. There's enough of that going around in most companies that you can point the time at that because like it or not, time management or resources are more and more constrained.
+
+Jay Nathan: Yeah, there's things you couldn't do before. Yeah.
+
+Neil Erickson: you know, as the past couple of years have gone on, we've all been asked to do more. And, you know, so, yeah.
+
+Jay Nathan: Yeah. Yep. Well, yeah, let's not forget the broader context, especially in tech, whether you're a data company or a SaaS company, the world has changed a lot. I used this analogy the other day and I think it resonated with me, I guess, because I've said it, but like we used to be able to throw all these people at our customers, right? And that's because a dollar of annual recurring revenue
+
+Neil Erickson: Hmm.
+
+Jay Nathan: used to be worth 10 to the owners, right? You get a 10X return on that ARR from an enterprise value standpoint. Today, it's two or three. The economics are completely different for the owners of these companies. so that's why, like if you're feeling the squeeze and you're in one of these companies and you're like, know, the PE firm that bought us told us we had to lay off half the team, that's why, because they're not making as much money.
+
+Jeff Breunsbach: Yeah.
+
+Jay Nathan: if they're burning my all these head counts. So I guess my only point is like, there's a great, somebody called it the great roll collapse. I think it was Sam Jacobs. And that is really, really happening. We're not going to be assigning an account team of 10 people to even a large enterprise account anymore. It's going to be one, maybe one and a half people that are responsible for maintaining that as part of a larger book of business now. And it's just reality. It's gravity. and it's finally caught up to the industry.
+
+Neil Erickson: Well, I guess that gets into another interesting conversation. I've been thinking about the job market and how jobs are posted and people are talking about the person that's the solo operator that's running the whole company or running the whole department. the reality is you still need time. It comes down to the person's time. It isn't just pushing a button and letting the machine go. ⁓ you need to, we need to change fundamentally how we talk about positions and skills needed into some of these conversations we have. how do you, how do know somebody has the skill set on some of these, let's say, I don't want to use the word legacy because that's bad, but like the legacy skill set of knowing how to do a weighted shortest job first sort of analysis or some of the
+
+Jay Nathan: Yeah.
+
+Neil Erickson: various disciplines that we've had through the industry through the years since the dot-com days around services, you the right services, the right APIs to information management, and then be able to go, how do, does this, is this person going be able to ask the challenging question of the answer coming out of the model and get a ⁓ better outcome than allowing just assuming? you know, that these skill sets are, ⁓ are evolving. I think that's, you know, it's, that's where and I love how Todd from Pendo during during his, ⁓ during his keynote, he's like, get in there and start using it. Like, you got to start using it, because you're going to start figuring it out. And it, and that's, that's the point. I think the more we were all tinkering, ⁓ finding problems, working our way around the problems, and we're figuring out what the new world is going to look like. ⁓
+
+Jay Nathan: That's it. You have to.
+
+Neil Erickson: But it takes cycles, it takes the pains to have the gains, right? ⁓
+
+Jay Nathan: Yeah, and you're right. It's a new way of working. literally is. The old skill sets become more of a commodity because the tool is going to give you that Intel. right, Jeff, are you we got to wrap it up, don't we?
+
+Jeff Breunsbach: Yeah, but I think there's a lot of good discussion. fun having Neil here, because I feel like he's got enterprise experience, but then also now he's bringing a lens of talking to these businesses on the front lines. ⁓ So it's been interesting. But Neil, quick plug, what does Owner Enable give the audience, like, 30-second pitch on what you do at Owner Enable ⁓ and what you're trying to accomplish?
+
+Neil Erickson: Awesome. Yeah, 30 seconds. So owner enabled creates and unifies the systems that small business owners use today by using AI on top to enable workflows. So exactly what you're trying to do, how do you reply back with a quote when a customer is inquiring for your service while you're off actually working a customer site? That's ultra important to the small business. It could be something as like, do I renewal season for insurance policies. How do you automate that and get in front with a set of notifications to the customer so they hit the yes continue button rather than having to do it the old fashioned way. yeah, enabling AI, all this.
+
+Jay Nathan: I bet a lot of these small businesses, I bet a lot of these small businesses, Neil, don't do a lot of things that could generate them more revenue because they just don't have time, right? Like the insurance example that you just mentioned, like there's probably an upsell every year to be had in my insurance policy, but my broker does not reach out to me because they don't have time to reach out to me, right? Is that the kind of thing you think you could?
+
+Neil Erickson: Yeah, yeah, yeah, for sure. For sure. Each type of these businesses has that notion. you can also talk about like the landscapers, they have a very seasonal business and there's a period there that how do you get ahead of the contract season before the spring happens? And so you load up your calendar, you know, in the fall and winter by doing the right campaigning, the right marketing, rather than waiting for you know, the customers in the spring. every, every type of business has that, that, you know, those, those, uh, race, rate, race conditions that they're not solving for today. And, uh, yeah.
+
+Jay Nathan: opportunity. Awesome.
+
+Jeff Breunsbach: Cool. Well, Neil, awesome to have you here. I think we'll have to do this again. Seems like you've got some good insight to bring. So we'll have to see if we can get you back here. Cool. Well, Jay, fun as always. And we'll get this out on Thursday for everybody.
+
+Neil Erickson: I'd love to be here. Thanks for having me.
+
+Jay Nathan: All right, good to see you all. Thanks, Neil.
+
+Neil Erickson: Awesome. Thank you.

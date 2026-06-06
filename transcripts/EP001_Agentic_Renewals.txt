@@ -1,0 +1,47 @@
+[Summary — full transcript not available]
+
+EP001: Agentic Renewals
+=======================
+
+In this episode of the Chief Customer Officer Podcast, Jay Nathan and Jeff Breunsbach discuss the evolving landscape of customer success, particularly focusing on the impact of AI. They explore the importance of building a robust renewal function, identifying key information for renewals, and the necessity of mapping out processes. 
+
+The conversation delves into the development of granular AI agents to enhance customer interactions and the balance between workflow and AI capabilities. They also emphasize the significance of understanding customer business contexts and choosing the right tools for effective AI implementation. 
+
+The episode concludes with thoughts on standardizing AI use across teams and the future directions of AI in customer success.
+
+Chapters
+
+00:00 Introduction to the Chief Customer Officer Podcast 02:58 The Role of AI in Customer Success 
+
+05:58 Building a Renewal Function with AI 
+
+08:49 Identifying Key Information for Renewals 
+
+12:08 Mapping Out the Renewal Process 
+
+15:09 Creating Operational Agents for Efficiency 
+
+18:10 The Future of AI in Customer Engagement 
+
+22:09 Optimizing Workflow with AI Agents 
+
+24:18 Personalization in Customer Interactions 
+
+26:11 The Importance of Real-Time Data 
+
+28:00 Exploring Tools for AI Integration 
+
+30:04 Categories of Agentic Tools 
+
+35:50 Empowering Business Users with Agent Development 39:04 Real-World Applications of AI in Business
+
+---
+
+About the Show:
+
+Chief Customer Officer Podcast is a show about real strategies for customer-led growth in the AI era—from leaders actually executing, not just talking about it.
+
+Your Hosts:
+
+- Jay Nathan – CEO of Balboa Solutions and Co-Founder of ChiefCustomerOfficer.io
+- Jeff Breunsbach – Head of Customer Success at Junction and Co-Founder of ChiefCustomerOfficer.io

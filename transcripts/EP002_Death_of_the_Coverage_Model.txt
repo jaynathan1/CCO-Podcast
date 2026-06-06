@@ -1,0 +1,41 @@
+[Summary — full transcript not available]
+
+EP002: Death of the Coverage Model
+==================================
+
+The death of the coverage model...
+
+In this episode of the Chief Customer Officer Podcast, Jay Nathan and Jeff Breunsbach peel back the layers on the practical application of AI in Customer Success. They start with a reality check: before you can build sophisticated AI agents, you often have to do the manual "grunt work" first — like physically reviewing contracts to clean up renewal data. 
+
+The conversation shifts to a critical debate on organizational structure, specifically the move away from the traditional "Coverage Model" (assigning accounts based on ARR) toward a "Predictive Model" that relies on real-time data signals rather than arbitrary check-ins. 
+
+Finally, Jay and Jeff geek out on the concept of "Vibe Coding" — using AI to build internal tools and websites without writing a line of code — and discuss why leaders need to get their hands dirty with these tools to truly understand them.
+
+Chapters
+
+00:00 Introduction & Dropping the ".io" 
+
+01:07 The Reality of Renewals: Manual Work Before AI 04:49 Why You Should Hire Ops Before Your Next CSM 09:49 The Death of the Coverage Model 
+
+13:49 Erroneous Signals vs. Predictive Data 
+
+17:44 The Evangelism Role & Fixing QBRs 
+
+25:36 The "Stay Conversation": 3 Questions to Retain Your Team 
+
+27:42 "Vibe Coding" & Building Software with AI 
+
+33:25 How Jeff Built the New Website (Without Code) 
+
+42:34 Preview: Sierra AI & Next Week
+
+---
+
+About the Show:
+
+Chief Customer Officer Podcast is a show about real strategies for customer-led growth in the AI era—from leaders actually executing, not just talking about it.
+
+Your Hosts:
+
+- Jay Nathan – CEO of Balboa Solutions and Co-Founder of ChiefCustomerOfficer.io
+- Jeff Breunsbach – Head of Customer Success at Junction and Co-Founder of ChiefCustomerOfficer.io

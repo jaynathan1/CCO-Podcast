@@ -1,0 +1,43 @@
+[Summary — full transcript not available]
+
+EP006: What We're Actually Building with AI Right Now
+=====================================================
+
+Jay and Jeff are back — and this week it's just the two of them. No guest, no slides. 
+
+Just a real conversation about what they've each been building with Claude Code and Claude Cowork over the past few weeks, and what it's revealing about the future of software, teams, and CS. 
+
+Plus a take on Jason Lemkin's SaaS doom post — and why they're not totally buying the narrative.
+
+KEY TAKEAWAYS
+
+- Get Hands-On or You Won't Get It: If you're in a leadership role and not personally using AI tools like Claude Code or Cursor, you're not fully grasping what's happening right now. Pay the $150 for a month. Just do it.
+- Enabling Your Team Is a Different Problem: Discovering an AI tool, getting excited about it, then "schlepping it over the fence" to your team isn't enabling them — it's abdicating. Change management still applies. Help them get on the curve.
+- Established SaaS Companies Aren't Dead: Brand trust, enterprise security certifications, and multi-year contracts with durable cash flow give companies like Salesforce and Workday real staying power. The question is whether they'll actually act on it.
+- Point Solutions Are Most at Risk: CFOs will start asking whether they need a $40K screen recording tool when it can be vibe-coded in an afternoon. Systems of record with billing, forecasting, and compliance dependencies are much harder to rip out.
+- The Juice Is Now Worth the Squeeze: AI lets teams do things they always wanted to do but couldn't justify. Jay built an interactive RACI builder and a conversational applicant tracking system — on a weekend, without writing a line of code.
+- It's a Context Problem: The real moat isn't the AI model — it's who can pull together all the Slack threads, call transcripts, emails, and product usage data into one accessible place. That's where the advantage lives.
+- Skills Democratize Expertise Across the Team: When any CSM can run the product marketing skill and generate a feature guide on their own, you've removed a bottleneck — not a person. Speed compounds when the whole team can move.
+- Token Costs Need a Line Item in Your Budget: Some engineering teams are already capping AI spend at $100K per engineer per year. 
+
+CHAPTERS
+
+- 00:00 - Intro and technical issues
+- 00:09 - Getting hands-on with AI: why leadership can't just delegate it
+- 02:48 - The SaaS market landscape: Jason Lemkin's take
+- 08:36 - Why established SaaS companies still have real advantages
+- 12:09 - Point solutions at risk; systems of record are defensible
+- 16:17 - Jeff's product marketing skill in Claude Cowork
+- 20:29 - Democratizing documentation: any CSM can now create the guide
+- 22:48 - Feeding source code as context; building a chatbot on your own codebase
+- 25:28 - QPR, playbook, and onboarding skill ideas
+- 27:19 - Managing token costs and what it means for team budgets
+- 28:38 - Jay's interactive RACI builder built with Claude Code
+- 34:20 - Balboa GPT: client-contextual AI with shared conversation history
+
+About the Show: Chief Customer Officer Podcast is a show about real strategies for customer-led growth in the AI era—from leaders actually executing, not just talking about it.
+
+Your Hosts:
+
+- Jay Nathan – CEO of Balboa Solutions and Co-Founder of ChiefCustomerOfficer.io
+- Jeff Breunsbach – Head of Customer Success at Junction and Co-Founder of ChiefCustomerOfficer.io

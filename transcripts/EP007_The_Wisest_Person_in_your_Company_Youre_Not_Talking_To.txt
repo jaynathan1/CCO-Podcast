@@ -1,0 +1,30 @@
+[Summary — full transcript not available]
+
+EP007: The Wisest Person in your Company You're Not Talking To
+==============================================================
+
+Jon Olson, Chief Legal Officer at Blackbaud, joins Jay and Jeff to flip the script on what legal teams are actually for.
+
+Jon argues that the law department's job isn't to say no — it's to pave the road so the business can move fast.
+
+Then the conversation turns to AI: how Blackbaud built an AI council to accelerate adoption, why law is uniquely suited for disruption by LLMs, and what it looks like when AI stops being a cost-saver and starts driving top-line revenue.
+
+KEY TAKEAWAYS
+
+- Law is a revenue function: Jon reframes what legal teams are for — not compliance gatekeepers, but deal enablers whose job is to help the business move forward. If there's no revenue, every other legal issue becomes irrelevant.
+- The "ultimate backstage pass": Legal touches 80–90% of company accomplishments every quarter — commercial deals, international expansion, M&A, partnerships. That cross-functional visibility makes CLOs uniquely positioned to see the whole business.
+- Say "yes, but" not "no": Jon coaches his team to never just say no. Instead, surface the risks, propose a path forward, and find the creative structure that gets the deal done. The Uber example: every legal concern was real, but the right answer wasn't "stick with taxis."
+- The Minto Pyramid in practice: Jeff shares a communication framework — lead with the conclusion (what the customer wants), then support it. Jon applies the same inverted pyramid when coaching law students: state your position first, then build the argument underneath. Both are fighting the instinct to bury the lead.
+- Blackbaud's AI council as a speed accelerator: When ChatGPT arrived, Blackbaud didn't lock AI down — they built a structured intake process. The result: use cases flow in faster, cross-functional ideas get shared, and the company moves more rapidly because guardrails are clear.
+- AI in law today vs. tomorrow: Today, AI can redline a 100-page contract against a standard playbook in 2–3 minutes instead of hours. Tomorrow, it will analyze thousands of historical contracts, surface negotiation patterns, and flag when a jurisdiction is no longer favorable — moving from paralegal to institutional memory to expert system.
+- AI's real P&L opportunity is top-line, not just cost savings: Most companies are capturing efficiency gains. The bigger prize is revenue growth — using AI to find underpriced customers, tailor offerings, enable dynamic pricing, and unlock new value from existing contract data.
+- Jevons Paradox and AI: New technology creates more demand, not less. The calculator didn't reduce accountants — there are more now than ever. Jon believes AI will expand productivity, create new categories of work, and ultimately generate more jobs, even as individual tasks get automated.
+
+About the Show:
+
+Chief Customer Officer Podcast is a show about real strategies for customer-led growth in the AI era—from leaders actually executing, not just talking about it.
+
+Your Hosts:
+
+- Jay Nathan – CEO of Balboa Solutions and Co-Founder of ChiefCustomerOfficer.io
+- Jeff Breunsbach – Head of Customer Success at Junction and Co-Founder of ChiefCustomerOfficer.io
