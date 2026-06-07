@@ -271,10 +271,18 @@ In batchUpdate: use `updateTextStyle` with `link: { url }` and `fields: 'link'` 
 [Title — H1, Montserrat]
 YYYY-MM-DD CCO Podcast Brief
 
-[Metadata block — Normal style, Montserrat]
-Recording: Tuesday [date]  |  Release: Thursday [date]  |  Research window: [range]
+[blank line]
 
----
+[Metadata — Normal style, Montserrat — three lines, NO blank lines between them]
+**Recording:** Tuesday, [Month D, YYYY]
+**Release:** Thursday, [Month D, YYYY]
+**Research window:** [Month D] – [Month D, YYYY]  ← en dash (–), not em dash (—)
+
+  Bold rule: label word(s) AND colon are bold (e.g. "Recording:" = 10 chars bold).
+  Date and everything after the colon is normal weight.
+  No horizontal rule or divider after the metadata block.
+
+[blank line]
 
 [Section — H2, Montserrat]
 Lead Story — "[Headline]"
