@@ -10,7 +10,7 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 
 *Append below. One bullet per idea. URL optional. Initial in brackets if you want to claim it.*
 
-- 
+- [Jay] Canva gave 5,000 employees a full week to do nothing but learn AI — and they froze. Canva CCO Rob Giglio wrote about it in Fortune: the tools were ready, the people weren't, and it had nothing to do with talent. Nobody built the conditions for adoption. https://www.linkedin.com/posts/melissarosenthal5_canva-just-did-something-most-companies-only-share-7468751844077408256-bCQw/
 
 ---
 
