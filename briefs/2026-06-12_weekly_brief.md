@@ -1,7 +1,7 @@
 # CCO Podcast — Weekly Research Brief
 
-**Recording date:** Tuesday, June 10, 2026
-**Release date:** Thursday, June 12, 2026
+**Recording date:** Tuesday, June 9, 2026
+**Release date:** Thursday, June 11, 2026
 **Research window:** May 30 – June 8, 2026
 
 ---
