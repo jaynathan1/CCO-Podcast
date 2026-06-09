@@ -187,7 +187,7 @@ A proposed flow for the episode that weaves the above into a coherent conversati
 
 1. **Open** (5 min): [Suggested personal/casual opener or callback to last week]
 2. **A-Block: What we're building** (15-20 min): [Frame their build, bring in the correlated stories, let the discussion go]
-3. **Quick hits** (10-15 min): [Work through 4-5 of the strongest Quick Hits items]
+3. **Quick hits** (10-15 min): [Work through 4-5 of the strongest Quick Hits items — anchor on the ones that connect back to the A-Block theme]
 4. **Tool of the Week** (5-10 min): [Demo or discuss the chosen tool]
 5. **Close** (5 min): [Rapid-fire remaining items and closing thought]
 
@@ -400,8 +400,9 @@ Key flags to know before recording:
 
 **Email API notes:**
 - Use Gmail API: `POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send`
+- Send **from mav@customersuccess.io** — set the `From:` header to `Maverick <mav@customersuccess.io>` in the RFC 2822 message
 - Construct the message as a base64url-encoded RFC 2822 email
-- Credentials are injected automatically — no auth headers needed
+- Credentials are injected automatically via the mav@customersuccess.io OneCLI connection — no auth headers needed
 - If Gmail is not connected, surface the connect URL to Hal and skip this step (do not fail the whole run)
 - Do not send the email if the Google Doc step failed (no link to share)
 
