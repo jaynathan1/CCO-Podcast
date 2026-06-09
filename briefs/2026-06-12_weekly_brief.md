@@ -2,7 +2,7 @@
 
 **Recording date:** Tuesday, June 10, 2026
 **Release date:** Thursday, June 12, 2026
-**Research window:** May 30 – June 6, 2026
+**Research window:** May 30 – June 8, 2026
 
 ---
 
@@ -61,6 +61,20 @@
 
 ---
 
+### B-Block 4: Canva's CCO Rob Giglio — 16 Billion AI Interactions and the Post-Sale Thesis That Should Embarrass Most SaaS Companies
+
+**Headline:** Canva CCO Rob Giglio built a $4B ARR enterprise motion on 16 billion AI interactions — and his playbook starts with flipping the 80/20 acquisition-to-retention spend ratio
+
+**Source:** SaaStr Annual 2026 session (July 2025, hosted by John Gleeson of Success Venture Partners) — primary for Giglio quotes and metrics; SaaStr published detailed session notes July 11, 2025. Forbes (April 16, 2026) citing Canva at AI 2.0 launch for ARR/profitability figures — secondary. Jay's `next_episode.md` candidate: Fortune article on Canva's all-company AI adoption week.
+
+**The hook:** Canva claims $4 billion ARR, profitable for eight consecutive years, and 230 million monthly active users — and their CCO Rob Giglio is sitting on 16 billion AI interactions. But the sharpest thing Giglio said at SaaStr had nothing to do with AI features: "In most SaaS businesses, the install base significantly exceeds new customer acquisition in any given quarter. Yet companies often spend 80% of their orchestration effort on acquisition and 20% on retention and expansion." He argues that ratio should be flipped — and Canva's growth from 170M to 230M MAU is the proof point. The Fortune story Jay flagged adds a concrete failure mode: Canva gave 5,000 employees an entire week to do nothing but learn AI — and they froze. Tools were ready, conditions weren't. As Canva's CCO described it, the adoption problem wasn't talent, it was architecture. A fresh June 8 angle: Canva co-founder Cliff Obrecht circulated an internal document citing an "AI perfect storm" as reason to slow hiring to below 10% headcount growth — even as the company is growing rapidly (AFR, June 8, 2026 — secondary, internal document).
+
+**Discussion starter:** Rob says most SaaS companies spend 80% of their orchestration budget on acquisition and 20% on retention — and he thinks that's backwards. Jay, you're running a company. Jeff, you're running CS at Junction. Do you think that ratio has actually shifted with AI, or are companies still structurally wired wrong? And if Canva gave its entire workforce a week to learn AI and they froze, what does that tell you about every customer you have who's "deploying AI" right now?
+
+**Prior episode tie-in:** EP011 ("Team-Wide AI Adoption") — the Canva all-company week story is the enterprise version of exactly what Jay and Jeff discussed there. EP019 (AI native services gross margin thesis) — Giglio's post-sale 80/20 argument is a direct challenge to any CS leader still spending disproportionately on acquisition. EP020 ("Building Uncommon") — Jay's player-coach framing maps directly to the Giglio thesis that post-sale relationship depth is underinvested.
+
+---
+
 ## Quick Hits (3–5 items)
 
 1. **Sierra AI raises $950M at $15.8B valuation** — Bret Taylor's enterprise AI agent company crosses $150M ARR in eight quarters. Taylor estimates $400 billion is spent annually on customer service globally. One in three of the world's largest banks are already Sierra customers. The scale of capital flowing into AI-native customer service alternatives is no longer theoretical. [TechCrunch, May 4, 2026 — secondary; just outside 7-day window but directly relevant trend]
@@ -72,6 +86,10 @@
 4. **Pendo hires first Chief AI Officer, launches Agent Analytics** — Pendo is building the first observability layer specifically for AI agent behavior in products, not just human users. As AI agents start using your product alongside humans, "product analytics" needs to track both. Pendo also launched its MCP server and appeared in Claude's Connectors Directory. [PR Newswire/Morningstar, May 21, 2026 — primary]
 
 5. **Tech layoffs hit 142,000 in first five months of 2026** — up 33% over the same period in 2025, even as hyperscalers report record revenues. The four hyperscalers (Amazon, Microsoft, Alphabet, Meta) committed to a combined $700 billion in AI capex for 2026, nearly double 2025. Profitable companies are cutting human roles to fund AI infrastructure, not to manage distress. [Tech Times, May 29-30, 2026 — secondary, citing trackerdata]
+
+6. **Zendesk removes AI agent paywall for entire Suite customer base** — Zendesk eliminated the plan distinction between "Essential" and "Advanced" AI agents, giving all Suite and Support customers agentic capabilities — including agentic reasoning, multi-step procedures, and external API integrations — by default, at no added cost. Rollout targets customers on legacy or basic AI configurations and completes June 12. [Zendesk Help Center, official product announcement — primary; rolling out May 25–June 12, 2026] Directly reinforces the token-economics / cost-collapse theme: a major CX platform just removed the paywall on its entire agentic AI tier for its full install base.
+
+7. **ChurnZero launches 7th Annual Customer Success Leadership Study with AI focus** — Survey now open, drawing on ~1,000 CS and revenue leaders (directors through CROs). This year's edition centers squarely on AI: adoption rates, autonomous authority in AI workflows, investment patterns, and a new six-level AI maturity framework. Partners include 6sense, Outreach, Pavilion, and Success Venture Partners. [PR Newswire, June 8, 2026 — primary] Note: results not yet published — worth flagging as a "watch this space" benchmark; data will drop in coming weeks.
 
 ---
 
@@ -100,9 +118,11 @@
 
 3. **Pivot (10 min):** SaaStr AI Annual data — Vercel running 93% AI support, Anthropic replacing its SDR team with Clay + Claude, Assembly AI's FDE recruiting story. Is this real at non-frontier-AI companies? Jeff just hired an FDE at Junction (EP017) — how does the org design question look now with these benchmarks?
 
-4. **Build/show-and-tell segment (10 min):** MCP trend watch. Walk the audience through what "the CS stack going headless" actually means. Jay could sketch the architecture: today CS leaders log into Gainsight/HubSpot/Pendo dashboards; in 18 months agents query those endpoints directly and report to you. What do you need to do *right now* to make sure your data is clean enough for that world?
+4. **Canva CCO story (10–15 min):** Rob Giglio's post-sale 80/20 thesis — and the Canva AI adoption week where 5,000 employees froze. The Canva story gives Jay and Jeff a named CCO with real numbers ($4B ARR, 16B AI interactions, 230M MAU) and a sharp provocation: if your install base already exceeds your new customer acquisition every quarter, why are you still spending 80% of your effort on top of funnel? The adoption week failure is the "gotcha" — tools ready, conditions weren't. What does that mean for every customer who tells you they're "deploying AI"?
 
-5. **Quick hits + close (5–10 min):** Sierra at $15.8B (the $400B customer service market is being invested in seriously), Salesforce Agentforce at $1.2B ARR while the stock is -32% YTD, tech layoffs at 142K (and profitable companies cutting to fund AI capex). Close: what's Jay and Jeff actually building before the next episode?
+5. **Build/show-and-tell segment (10 min):** MCP trend watch. Walk the audience through what "the CS stack going headless" actually means. Jay could sketch the architecture: today CS leaders log into Gainsight/HubSpot/Pendo dashboards; in 18 months agents query those endpoints directly and report to you. What do you need to do *right now* to make sure your data is clean enough for that world?
+
+6. **Quick hits + close (5–10 min):** Sierra at $15.8B (the $400B customer service market is being invested in seriously), Salesforce Agentforce at $1.2B ARR while the stock is -32% YTD, Zendesk removing its AI agent paywall for all Suite customers, tech layoffs at 142K (and profitable companies cutting to fund AI capex). Close: what's Jay and Jeff actually building before the next episode?
 
 ---
 
@@ -112,9 +132,15 @@
 **Why now:** Just presented at SaaStr AI Annual 2026 disclosing that Anthropic replaced most of its SDR team with AI (Clay + Claude) and drives 54% of new enterprise logos through an AI-qualified self-serve path. She can speak directly to what it means to dogfood AI for go-to-market at a company building the AI itself — and she's dealing with the same token cost pressures from the customer side that the show is covering this week.
 **What she'd bring:** Concrete implementation detail (the actual stack Anthropic uses for enterprise sales and CS), honest perspective on what breaks when you replace human GTM with AI, and the view from the frontier model provider side of enterprise AI cost management.
 
+**Longer-term guest suggestion:**
+**Rob Giglio** — CCO, Canva
+**Why:** The B-Block 4 story is strong enough to anchor a full episode. Giglio is a named CCO at a recognizable consumer-to-enterprise brand with a clear post-sale philosophy, real AI adoption data, and a willingness to talk publicly (SaaStr, Fortune, multiple podcast appearances). The "conditions for adoption" failure story from the Canva AI week is a natural episode hook: *You gave your whole company a week to learn AI and they froze — what did you do next?*
+
 ---
 
 ## Fact-Check Notes
+
+*Updated June 8, 2026 — research window extended to June 8; B-Block 4 (Canva/Giglio) and two Quick Hits (Zendesk, ChurnZero) added.*
 
 **Corrections and verifications made between draft and final:**
 
@@ -136,9 +162,25 @@
 
 9. **Ramp AI Index — Anthropic 34.4% vs OpenAI 32.3%:** Primary data from Ramp's corporate card analytics across 50,000+ US companies. Forbes coverage (June 5) cites Ramp's lead economist directly. **Primary data, secondary sourcing — high confidence.**
 
+10. **Canva $4B ARR and 8 consecutive profitable years:** Canva-stated, reported by Forbes at the April 16, 2026 AI 2.0 launch. Canva is private/pre-IPO and figures are unaudited. **Say "Canva claims" not "Canva has."**
+
+11. **16 billion AI interactions:** Giglio stated this himself at SaaStr Annual (July 2025), hosted by John Gleeson. SaaStr published detailed session notes July 11, 2025. This is the sharpest Giglio number in the story — but it is now approximately 11 months old. The actual figure is likely higher today. **Recommend saying "as of last summer" and not citing as current.** Source: https://www.saastr.com/ai-and-the-bottom-line-with-canvas-cco-how-they-built-a-7b-enterprise-motion-on-16-billion-ai-interactions/
+
+12. **Canva 230M MAU:** Self-reported by Canva. Canva defines MAU as a completed design (shared, downloaded, saved, or published) — not just an app open. Giglio described this definition explicitly at SaaStr as a non-vanity North Star metric. **Strong definition but still self-reported.**
+
+13. **"Third most-used AI platform" (Canva):** Andreessen Horowitz research claim cited by Forbes, not a Canva primary source. **Do not state as fact without attribution.**
+
+14. **Canva AI adoption week / 5,000 employees froze:** Jay's candidate item links to a LinkedIn post (Melissa Rosenthal) referencing the Fortune article. The LinkedIn post is a secondary reference; the Fortune article is the primary. Canva confirmed the all-company AI week publicly. The framing ("nobody built the conditions for adoption") is Giglio's reported position, not a direct quote from the Fortune article as verified by this research run. **Confirm the specific Giglio quote before reading on air — the framing is accurate but the exact wording needs primary sourcing against the Fortune text.**
+
+15. **Canva hiring slowdown:** From an internal document circulated to staff in early June 2026, reported by AFR on June 8, 2026 (attributed to co-founder Cliff Obrecht, not Giglio). This is context for the broader Canva story — not a Giglio quote. **Use as company context, not as a Giglio data point.**
+
+16. **ChurnZero study:** Survey launched June 8, 2026. No results data is citable yet. **Do not cite findings — only flag the study is underway.**
+
+17. **Zendesk AI agent paywall removal:** Official Zendesk Help Center announcement (primary). Rollout window May 25–June 12, 2026. No named executive statement accompanies the announcement — the product change itself is primary. **High confidence on the policy change; quote the policy, not a spokesperson.**
+
 **How items from `next_episode.md` were handled:**
 
-- **This Week section:** Empty — Jay/Jeff had not seeded it before this run. Jay's "rising cost of intelligence" request (via Hal, June 6) was treated as a required lead/B-block candidate and became the Lead Story.
+- **This Week section:** Jay's Canva/Rob Giglio item treated as a required candidate. Placed as B-Block 4 — cleared the B-Block bar on the strength of primary-sourced Giglio metrics (SaaStr session notes), a verified direct quote on the 80/20 acquisition-to-retention ratio, and multiple data points ($4B ARR, 16B AI interactions, 230M MAU). The Fortune AI adoption week story is incorporated as the fresh hook within the B-Block.
 - **Warm Threads:** Empty — no items to carry forward.
 - **Parking Lot items:**
   - *"The AI architect role"* — not surfaced in this week's news; left in Parking Lot.
@@ -149,5 +191,6 @@
 
 **Transcript review completed in Step 0:**
 - EP019, EP020, EP018, EP015, EP017, EP016, EP009, EP010, EP006, EP014 reviewed or searched.
+- EP011 ("Team-Wide AI Adoption") reviewed for B-Block 4 callback — Canva AI adoption week is the enterprise-scale version of the adoption conditions discussion from that episode.
 - EP020 transcript partially captured (transcript ends mid-episode due to Riverside feed limitation; "player-coach" segment not transcribed). Noted for future runs — may need to verify Riverside transcript completeness on subsequent episodes.
 - Callbacks considered but cut: EP003 (Context is King) — data MCP angle was relevant but episode was early-stage and the specific callback wasn't crisp enough for the brief. EP012 (CarParts.com support stack) — Vercel's 93% AI support metric is a better/fresher version of the same story.
