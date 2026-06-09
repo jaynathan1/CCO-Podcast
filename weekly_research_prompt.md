@@ -119,7 +119,7 @@ A draft is not a brief. Before delivery, verify every load-bearing claim. The ho
    - `(soft — single benchmark)` — a survey or benchmark from a single firm without corroboration.
    Anything tagged `soft` is fair game to use, but Jay and Jeff need to know they're quoting commentary, not gospel.
 
-5. **Check the date window.** Every story in the Lead and Quick Hits sections must fall inside the brief's stated week. B-block stories can stretch up to two weeks back if they're still load-bearing for the trend — flag the date inline if so. Anything older than two weeks goes in Trend Watch or gets cut.
+5. **Check the date window.** Every story in the Quick Hits section must fall inside the brief's stated week. Correlated stories in the A-Block can stretch up to two weeks back if they're directly relevant to what Jay/Jeff are building — flag the date inline if so. Anything older than two weeks goes in Trend Watch or gets cut.
 
 6. **Run a final pass for search-summary artifacts.** Common failure modes:
    - A percentage that "rounds" to a number that doesn't actually match the underlying figures (e.g., "729% YoY" when the underlying math is 800%+).
@@ -157,28 +157,23 @@ Structure your output as follows:
 **Release date:** [Thursday date, e.g. June 4, 2026]
 **Research window:** [7-day range ending on the recording date]
 
-### Lead Story (The "A-Block")
-The single most compelling topic for this week. This should be strong enough to anchor 15-20 minutes of discussion.
+### A-Block — What We're Building
 
-**What happened**: [2-3 sentence summary with source links and source-quality tags]
-**Why it matters for the show**: [Connect to the podcast's themes and audience]
-**Discussion angles**:
-- [Angle 1 — frame as a question Jay or Jeff would ask each other]
-- [Angle 2 — the contrarian or non-obvious take]
-- [Angle 3 — the "so what do you actually do about this" angle]
-**Prior episode tie-in**: [Cite the specific episode by number and title, plus the exact moment — a position, prediction, framework, number, or guest reference — that this story extends, validates, or contradicts. If you cannot cite a real moment from a real episode, you haven't done Step 0; go back and read the transcripts.]
+The A-Block is anchored on **what Jay and Jeff are currently building with AI** — submitted by them in `next_episode.md` under `## What We're Building`. Read that section first. If it's empty, message Hal to ask Jay before proceeding.
 
-### Secondary Stories (2-3 "B-Block" items)
-Strong stories that could each fill 5-10 minutes or serve as segment transitions.
+**Your job:** Take their submitted build context and find news, research, or community signal from the past week that correlates with it — tools they might be using, problems others are hitting, market validation or counter-evidence for what they're doing. The A-block is a conversation between their hands-on work and what's happening in the world.
 
-For each:
-- **Headline**: [One-line summary]
-- **Source**: [Link with source-quality tag]
-- **The hook**: [Why this is interesting for the show — 1-2 sentences]
-- **Discussion starter**: [A provocative question or framing]
+**Structure:**
+- **What they're building**: [1-2 sentence summary of Jay/Jeff's submitted context — quote or closely paraphrase, don't editorialize]
+- **Correlated stories**: [3-5 bullets — news or signals from this week that connect to their build. One fact per bullet with source tag.]
+- **Discussion angles**:
+  - [Angle 1 — what does the week's news validate or challenge about their approach?]
+  - [Angle 2 — the non-obvious parallel — what are others doing differently?]
+  - [Angle 3 — the "so what do you do with this" angle for the audience]
+- **Prior episode tie-in**: [Cite the specific episode by number and title, plus the exact moment that this connects to. If you cannot cite a real moment, go back and read the transcripts.]
 
-### Quick Hits (3-5 items)
-Rapid-fire items worth a mention but not a deep dive. One sentence each with source link and source-quality tag.
+### Quick Hits (5-8 items)
+Rapid-fire items worth a mention — one sentence each with source link and source-quality tag. This covers both the news of the week and any strong secondary stories that don't warrant a full segment. Aim for variety: mix company news, research/benchmarks, product launches, and community signal.
 
 ### Trend Watch
 One emerging pattern you're seeing across multiple signals this week that hasn't fully materialized yet but is worth planting a flag on.
@@ -191,10 +186,10 @@ One emerging pattern you're seeing across multiple signals this week that hasn't
 A proposed flow for the episode that weaves the above into a coherent conversation:
 
 1. **Open** (5 min): [Suggested personal/casual opener or callback to last week]
-2. **Lead discussion** (15-20 min): [A-block framing]
-3. **Pivot** (10 min): [B-block story that connects or contrasts]
-4. **Build/show-and-tell segment** (10 min): [If there's something to demo or a framework to sketch]
-5. **Quick hits + close** (5-10 min): [Rapid-fire items and closing thought]
+2. **A-Block: What we're building** (15-20 min): [Frame their build, bring in the correlated stories, let the discussion go]
+3. **Quick hits** (10-15 min): [Work through 4-5 of the strongest Quick Hits items]
+4. **Tool of the Week** (5-10 min): [Demo or discuss the chosen tool]
+5. **Close** (5 min): [Rapid-fire remaining items and closing thought]
 
 ### Tool of the Week (5 Candidates)
 
@@ -216,12 +211,6 @@ Each week, research and present **5 candidate tools** for Jay and Jeff to choose
 **Sources to scan:** Product Hunt (launched this week), LinkedIn trending posts, TechCrunch/The Information product coverage, G2 new reviews, founder Twitter/X announcements, VC portfolio announcements.
 
 **Examples of the right type of tool:** Wispr Flow (voice-to-text for GTM), Clay (AI prospecting enrichment), Nooks (parallel dialing + AI), Momentum (Slack-to-CRM), Reclaim (AI scheduling), Grain (meeting highlights), Pocus (PQL scoring).
-
-### Guest Suggestion (if applicable)
-If this week's topics point to a specific person who would be a great guest, flag them:
-- **Who**: [Name, role, company]
-- **Why now**: [What makes them timely]
-- **What they'd bring**: [Unique perspective or experience]
 
 ### Fact-Check Notes
 A short list of:
