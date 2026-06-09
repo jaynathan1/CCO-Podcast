@@ -196,6 +196,27 @@ A proposed flow for the episode that weaves the above into a coherent conversati
 4. **Build/show-and-tell segment** (10 min): [If there's something to demo or a framework to sketch]
 5. **Quick hits + close** (5-10 min): [Rapid-fire items and closing thought]
 
+### Tool of the Week (5 Candidates)
+
+Each week, research and present **5 candidate tools** for Jay and Jeff to choose from for the on-air "Tool of the Week" segment. The goal: tools that B2B SaaS GTM teams (CS, sales, RevOps, marketing) can actually use — not enterprise-only, not vaporware, not yesterday's news.
+
+**Search criteria:**
+- Launched, updated, or gaining significant traction in the **last 30–60 days**
+- Relevant to: customer success, sales prospecting, account management, RevOps, onboarding, call intelligence, QBR automation, or AI-assisted GTM workflows
+- Has a real product (website, working demo, or free tier) — no stealth-mode-only tools
+- Avoid tools already covered in prior episodes (check `./transcripts/` and **Recently Covered** in `next_episode.md`)
+
+**For each of the 5 candidates, provide:**
+- **Tool**: [Name + link]
+- **What it does**: [One sentence — be specific, not "it uses AI to..."]
+- **GTM use case**: [Who on the team uses it and for what — e.g., "AEs use it to prep call briefs from CRM data"]
+- **Why this week**: [What makes it timely — launch, viral LinkedIn post, product update, funding]
+- **Pricing**: [Free tier / starting price / enterprise-only]
+
+**Sources to scan:** Product Hunt (launched this week), LinkedIn trending posts, TechCrunch/The Information product coverage, G2 new reviews, founder Twitter/X announcements, VC portfolio announcements.
+
+**Examples of the right type of tool:** Wispr Flow (voice-to-text for GTM), Clay (AI prospecting enrichment), Nooks (parallel dialing + AI), Momentum (Slack-to-CRM), Reclaim (AI scheduling), Grain (meeting highlights), Pocus (PQL scoring).
+
 ### Guest Suggestion (if applicable)
 If this week's topics point to a specific person who would be a great guest, flag them:
 - **Who**: [Name, role, company]
