@@ -1,12 +1,20 @@
 # Next Episode — Living Notes
 
-A working document for Jay and Jeff. Append freely during the week. The producer reads this at Step 0 of every weekly run and treats every item as a required candidate story — anything not used gets explained in Fact-Check Notes.
+A working document for Jay and Jeff. Append freely during the week. The producer reads this at Step 0 of every weekly run.
 
-After each weekly brief ships, this file is snapshotted to `archive/next_episode_YYYY-MM-DD.md` and the **This Week** section is cleared. **Warm Threads** and **Parking Lot** carry over.
+After each weekly brief ships, this file is snapshotted to `archive/next_episode_YYYY-MM-DD.md` and the **What We're Building** and **This Week** sections are cleared. **Warm Threads** and **Parking Lot** carry over.
 
 ---
 
-## This Week (required candidates for the next brief)
+## What We're Building (A-Block anchor — REQUIRED before research runs)
+
+*Jay and Jeff: drop 2-3 sentences on what you're currently building or experimenting with using AI. This anchors the A-Block. Maverick finds correlated news and stories to fuel the conversation. Be specific — the tool, the use case, what's working or broken.*
+
+-
+
+---
+
+## This Week (news candidates and story ideas)
 
 *Append below. One bullet per idea. URL optional. Initial in brackets if you want to claim it.*
 
