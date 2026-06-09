@@ -198,11 +198,9 @@ A proposed flow for the episode that weaves the above into a coherent conversati
 
 ### Guest Suggestion (if applicable)
 If this week's topics point to a specific person who would be a great guest, flag them:
-- **Who**: [Name, role, company — LinkedIn](URL)  ← always include a LinkedIn profile hyperlink
+- **Who**: [Name, role, company]
 - **Why now**: [What makes them timely]
 - **What they'd bring**: [Unique perspective or experience]
-
-Research the guest's LinkedIn URL before writing the brief. The Who line must include " — LinkedIn" hyperlinked to their profile. If you cannot confirm the URL, flag that clearly rather than guessing.
 
 ### Fact-Check Notes
 A short list of:
@@ -225,7 +223,19 @@ After writing the brief markdown file, publish a formatted version to Google Doc
 
 #### Check for an existing doc first
 
-Look for `./briefs/YYYY-MM-DD_gdoc_id.txt`. If it exists, update that document rather than creating a new one. If no doc exists, create one in the CCO Podcast Briefs folder.
+Look for `./briefs/YYYY-MM-DD_gdoc_id.txt`. If it exists, update that document rather than creating a new one. If no doc exists, **copy the template** (see below) rather than building from scratch.
+
+#### Creating a new doc from the template
+
+The canonical template doc ID is stored at `./briefs/template_gdoc_id.txt`. To create a new weekly doc:
+
+1. Read `./briefs/template_gdoc_id.txt` to get the template ID.
+2. Copy it via the Drive API: `POST https://www.googleapis.com/drive/v3/files/{templateId}/copy` with body `{"name": "YYYY-MM-DD CCO Podcast Brief"}`. This preserves all formatting, styles, and structure exactly.
+3. Move the copy to the "CCO Podcast Briefs" folder using `PATCH https://www.googleapis.com/drive/v3/files/{newDocId}?addParents={folderId}&removeParents=root`.
+4. Then populate content using `batchUpdate` — replace placeholder text, apply content to each section.
+5. Save the new doc's ID to `./briefs/YYYY-MM-DD_gdoc_id.txt`.
+
+**Never build a doc from scratch.** Always copy the template. This guarantees formatting is locked in and prevents style inheritance issues.
 
 #### Formatting rules (apply to every doc, new or updated)
 
@@ -237,52 +247,16 @@ The goal is a brief that Jay and Jeff can scan in 2 minutes before hitting recor
 
 **No walls of text.** Any prose block longer than 3 sentences must be broken into bullets. The "What happened" section in particular: use 4-6 tight bullets, one fact per bullet, source tag inline. Never a paragraph of run-on citations.
 
-**Bullet formatting:** All bullet points must use native Google Docs list formatting — never plain-text `•` characters. After inserting content via `insertText`, identify all bullet paragraphs and convert them with `createParagraphBullets` (bulletPreset: `BULLET_DISC_CIRCLE_SQUARE`) via a second `batchUpdate` pass. Process paragraphs in reverse document order (last to first) so that index positions remain accurate across sequential deletions. Strip any manually-typed `•` prefix characters before applying `createParagraphBullets`.
-
-**Numbered lists (Suggested Episode Arc):** The episode arc items (1. Open, 2. Lead, etc.) must use native ordered list formatting. Insert them as plain text `1. … 2. …` initially, then in the batchUpdate pass: delete the `N. ` prefix (3 chars each) in reverse document order, then apply `createParagraphBullets` with `bulletPreset: NUMBERED_DECIMAL_ALPHA_ROMAN` across the full range covering all arc items in a single call. This ensures all items join the same list. Note: `NUMBERED_DECIMAL_NESTED_ROMAN` is not a valid preset — use `NUMBERED_DECIMAL_ALPHA_ROMAN`.
-
-**Trend Watch structure:** The Trend Watch section must have clear visual separation between its sub-elements. Apply `HEADING_3` style to the "Evidence:" label paragraph. Insert an extra blank paragraph before the "Why now:" line (so there are two blank lines separating the evidence bullets from the closing sentence). This prevents the section from reading as a wall of text.
-
-**B-Block story structure — exact format:**
-Each B-Block story must follow this precise structure in the Google Doc:
-- `HEADING_3`: Story headline (e.g. "B-Block 1: CS Org Restructuring — SaaStr AI Annual")
-- `NORMAL_TEXT`: **Source**: [source line] — the word "Source" bold, colon onward normal weight
-- `NORMAL_TEXT`: *(blank paragraph)*
-- `NORMAL_TEXT`: **Hook**: [hook text] — the word "Hook" bold, colon onward normal weight
-- `NORMAL_TEXT`: *(blank paragraph)*
-- `NORMAL_TEXT`: **Discussion starter**: [text] — "Discussion starter" bold, colon onward normal weight
-
-In the batchUpdate: insert blank paragraphs between each element in reverse document order (last story first). Then apply `updateTextStyle` with `bold: true, fields: 'bold'` to each label word ("Source" = 6 chars, "Hook" = 4 chars, "Discussion starter" = 18 chars), adjusting indices for the cumulative shift from all preceding insertions. No blank paragraph between the H3 headline and the Source line.
-
-**Guest Suggestion section — exact format:**
-- `HEADING_2`: "Guest Suggestion"
-- `NORMAL_TEXT`: *(blank paragraph)*
-- `NORMAL_TEXT`: **Who**: [Name, role, company] — [LinkedIn](URL) — "Who" bold (3 chars), colon onward normal; append " — LinkedIn" where "LinkedIn" is hyperlinked to the guest's profile URL
-- `NORMAL_TEXT`: *(blank paragraph)*
-- `NORMAL_TEXT`: **Why now:**: [text] — "Why now:" bold (8 chars, including the colon), rest normal
-- `NORMAL_TEXT`: *(blank paragraph)*
-- `NORMAL_TEXT`: **What she'd/he'd bring**: [text] — "What she'd/he'd bring" bold, colon onward normal
-
-In batchUpdate: use `updateTextStyle` with `link: { url }` and `fields: 'link'` to apply the hyperlink to the "LinkedIn" text (8 chars). Research the guest's LinkedIn URL before writing — insert the correct `linkedin.com/in/...` URL. If the URL cannot be confirmed, leave a `[LinkedIn — URL not confirmed]` placeholder and flag it in the brief notes.
-
 **Document structure:**
 
 ```
 [Title — H1, Montserrat]
 YYYY-MM-DD CCO Podcast Brief
 
-[blank line]
+[Metadata block — Normal style, Montserrat]
+Recording: Tuesday [date]  |  Release: Thursday [date]  |  Research window: [range]
 
-[Metadata — Normal style, Montserrat — three lines, NO blank lines between them]
-**Recording:** Tuesday, [Month D, YYYY]
-**Release:** Thursday, [Month D, YYYY]
-**Research window:** [Month D] – [Month D, YYYY]  ← en dash (–), not em dash (—)
-
-  Bold rule: label word(s) AND colon are bold (e.g. "Recording:" = 10 chars bold).
-  Date and everything after the colon is normal weight.
-  No horizontal rule or divider after the metadata block.
-
-[blank line]
+---
 
 [Section — H2, Montserrat]
 Lead Story — "[Headline]"
