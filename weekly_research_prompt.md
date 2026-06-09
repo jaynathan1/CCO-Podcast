@@ -48,7 +48,19 @@ Work through these steps like a podcast producer preparing a show:
 
 ### Step 0: Sync, Ground Yourself, and Read `next_episode.md` (REQUIRED — do not skip)
 
-Before scanning the news, do three things:
+Before scanning the news, do four things:
+
+**Pre-A. Check your inbox for input from Jay and Jeff.**
+
+Use Gmail API: `GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=from:jay@customersuccess.io OR from:jeff@customersuccess.io in:inbox` (using the mav@customersuccess.io connection).
+
+For each message found:
+1. Fetch the full message body and decode it.
+2. If it contains a "What We're Building" answer or story ideas, add them to `./next_episode.md` under the appropriate section — **What We're Building** or **This Week**. Attribute with the sender's initial in brackets (e.g., `[Jay]`, `[Jeff]`).
+3. Reply to the email confirming you've logged their input: "Got it — added to the brief. I'll incorporate this into Monday's research run."
+4. Archive the message after processing so you don't double-process it on future runs: `POST /gmail/v1/users/me/messages/{id}/modify` with `{"removeLabelIds": ["INBOX"]}`.
+
+If no messages are found, proceed. Do not fail the run on an empty inbox.
 
 **A. Sync the transcript archive from the Riverside RSS feed.**
 
