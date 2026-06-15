@@ -10,7 +10,9 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 
 *Jay and Jeff: drop 2-3 sentences on what you're currently building or experimenting with using AI. This anchors the A-Block. Maverick finds correlated news and stories to fuel the conversation. Be specific — the tool, the use case, what's working or broken.*
 
--
+**Jay (logged Jun 10):** Continuing to build the agent command center for Balboa — a custom agent studio where you can build agents, skills, and connect tools, and where the system learns by storing memories of your interactions and requests. Goal: make it as natural to interact with as NanoClaw.
+
+**Jeff (logged Jun 10):** Team just built a renewal proposal automation — a Claude Cowork skill they're treating as V1 and plan to build on. Also wants to dig into Jay's command center: how multiplayer AI vs. single-player fits together.
 
 ---
 
@@ -18,7 +20,7 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 
 *Append below. One bullet per idea. URL optional. Initial in brackets if you want to claim it.*
 
--
+- [Jay] Canva gave 5,000 employees a full week to do nothing but learn AI — and they froze. Canva CCO Rob Giglio wrote about it in Fortune: the tools were ready, the people weren't, and it had nothing to do with talent. Nobody built the conditions for adoption. https://www.linkedin.com/posts/melissarosenthal5_canva-just-did-something-most-companies-only-share-7468751844077408256-bCQw/ **NOTE: Covered in EP021 key segment — needs fresh angle or cut.**
 
 ---
 
