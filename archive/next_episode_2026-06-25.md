@@ -10,7 +10,7 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 
 *Jay and Jeff: drop 2-3 sentences on what you're currently building or experimenting with using AI. This anchors the A-Block. Maverick finds correlated news and stories to fuel the conversation. Be specific — the tool, the use case, what's working or broken.*
 
-- [Jay, Jun 22] Continuing to develop Agent Command Center — incorporating open source components but focusing on what's unique: (1) simplicity for business users to build agents, (2) ability to create industry-specific agentic solutions with verified datasets, industry-specific skills, MCPs, and known APIs. Basically agentic integrations between known platforms and skills that make agents aware of how to work with them in efficient ways.
+-
 
 ---
 
@@ -18,7 +18,9 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 
 *Append below. One bullet per idea. URL optional. Initial in brackets if you want to claim it.*
 
--
+- [Jay] Canva gave 5,000 employees a week to learn AI — they froze. Canva CCO Rob Giglio in Fortune. The problem wasn't tools — it was that nobody built the conditions for adoption. (via Hal, June 21)
+- [Jay] Why CS teams can't fix customer failure alone — product delivery organized around tech not customer value (Melissa Perri LinkedIn post, ~June 2026). Jay's angle: this is exactly why Agent Command Center is built around end-to-end value delivery / abstracting tech from business users.
+- [Jeff, newsletter draft] Single-player vs multiplayer AI — Jeff's LinkedIn/newsletter piece forwarded by Jay (email Jun 19). Thesis: most CS teams are in single-player mode (individual ChatGPT use, no shared infra), need to move to multiplayer (shared prompts, common data layer, chained workflows). McKinsey: <10% of companies experimenting with AI agents have scaled to real value.
 
 ---
 
@@ -64,7 +66,3 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 - TAMs and forward-deployed engineers (EP014, EP017)
 - Agentic renewals (EP001)
 - Agent sprawl / multiplayer AI / NanoClaw intro / Canva adoption story (EP021, brief 2026-06-18)
-- Agent Command Center architecture / end-to-end value delivery / abstracting tech from business users (EP022, brief 2026-06-25)
-- Canva AI Discovery Week / Rob Giglio / human blockers to adoption (brief 2026-06-25, A-Block)
-- Melissa Perri: organizing teams around technology builds silos vs. organizing around outcomes (brief 2026-06-25, A-Block)
-- Single-player vs. multiplayer AI / Jeff Breunsbach thesis / McKinsey <10% scaling stat (brief 2026-06-25, A-Block)
