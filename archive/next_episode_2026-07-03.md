@@ -18,7 +18,7 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 
 *Append below. One bullet per idea. URL optional. Initial in brackets if you want to claim it.*
 
-
+-
 
 ---
 
@@ -68,7 +68,3 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 - Canva AI Discovery Week / Rob Giglio / human blockers to adoption (brief 2026-06-25, A-Block)
 - Melissa Perri: organizing teams around technology builds silos vs. organizing around outcomes (brief 2026-06-25, A-Block)
 - Single-player vs. multiplayer AI / Jeff Breunsbach thesis / McKinsey <10% scaling stat (brief 2026-06-25, A-Block)
-- Vendor data lockdowns / SAP AI agent ban / opendatainfrastructure.com / fight for customer data (brief 2026-07-03, Lead)
-- George Fraser / Fivetran "SaaS survives AI" thesis — business process as moat (brief 2026-07-03, B-Block 1)
-- Pulling Apart Ops — BI/analytics role forking into infrastructure engineer vs. insight consumer (brief 2026-07-03, B-Block 2)
-- AI-native CS orgs (Lovable, Harvey, Assembly AI) rebuilding CS without CSMs (brief 2026-07-03, B-Block 3)
