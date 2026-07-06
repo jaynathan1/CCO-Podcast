@@ -10,6 +10,8 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 
 *Jay and Jeff: drop 2-3 sentences on what you're currently building or experimenting with using AI. This anchors the A-Block. Maverick finds correlated news and stories to fuel the conversation. Be specific — the tool, the use case, what's working or broken.*
 
+- [Jay, Jun 22] Continuing to develop Agent Command Center — incorporating open source components but focusing on what's unique: (1) simplicity for business users to build agents, (2) ability to create industry-specific agentic solutions with verified datasets, industry-specific skills, MCPs, and known APIs. Basically agentic integrations between known platforms and skills that make agents aware of how to work with them in efficient ways.
+
 ---
 
 ## This Week (news candidates and story ideas)
@@ -70,9 +72,3 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 - George Fraser / Fivetran "SaaS survives AI" thesis — business process as moat (brief 2026-07-03, B-Block 1)
 - Pulling Apart Ops — BI/analytics role forking into infrastructure engineer vs. insight consumer (brief 2026-07-03, B-Block 2)
 - AI-native CS orgs (Lovable, Harvey, Assembly AI) rebuilding CS without CSMs (brief 2026-07-03, B-Block 3)
-- FDE arms race — Amazon $1B + OpenAI $4B + Anthropic $1.5B embedding engineers inside enterprise accounts; Jay predicted exact model in EP023 (brief 2026-07-09, Lead)
-- Ford rehires 350 veteran engineers after AI quality control failure; wins JD Power #1 — AI + experience > AI alone (brief 2026-07-09, B-Block 1)
-- Ramp/Revelio AI depth divide — $30+/employee/month = 10.2% headcount growth vs. Goldman -16K jobs/month (brief 2026-07-09, B-Block 2)
-- Cloudflare blocks AI training crawlers by default Sept 15; bots now >50% of internet traffic (brief 2026-07-09, B-Block 3)
-- FDE compensation benchmarks — $385K median mid-level, $1.2M+ principal (Perspective AI 2026 report) (brief 2026-07-09, Quick Hits)
-- OpenAI GPT-5.6 / government restrictions on frontier model release (brief 2026-07-09, Quick Hits)
