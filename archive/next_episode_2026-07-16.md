@@ -76,7 +76,3 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 - Cloudflare blocks AI training crawlers by default Sept 15; bots now >50% of internet traffic (brief 2026-07-09, B-Block 3)
 - FDE compensation benchmarks — $385K median mid-level, $1.2M+ principal (Perspective AI 2026 report) (brief 2026-07-09, Quick Hits)
 - OpenAI GPT-5.6 / government restrictions on frontier model release (brief 2026-07-09, Quick Hits)
-- $9.75B FDE boom — Amazon/OpenAI/Anthropic/Microsoft/Salesforce/Google structural models; moat is proprietary workflow access (brief 2026-07-16, Story 1)
-- Starbucks building AI software to replace Microsoft/IBM/Oracle — $400M spend target, $30M savings, mixed execution (brief 2026-07-16, Story 2)
-- Gainsight Atlas executive hires — Grant Clarke, Vijay Jegan; vendor-services tension made explicit (brief 2026-07-16, Story 3)
-- Zuckerberg: AI agents not progressing as expected; Meta $145B infrastructure spend, 3-6 month horizon (brief 2026-07-16, Story 4)
