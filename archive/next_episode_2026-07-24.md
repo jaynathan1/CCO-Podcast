@@ -16,7 +16,7 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 
 *Append below. One bullet per idea. URL optional. Initial in brackets if you want to claim it.*
 
-<!-- Cleared after 2026-07-24 brief run -->
+
 
 ---
 
@@ -77,11 +77,6 @@ After each weekly brief ships, this file is snapshotted to `archive/next_episode
 - FDE compensation benchmarks — $385K median mid-level, $1.2M+ principal (Perspective AI 2026 report) (brief 2026-07-09, Quick Hits)
 - OpenAI GPT-5.6 / government restrictions on frontier model release (brief 2026-07-09, Quick Hits)
 - $9.75B FDE boom — Amazon/OpenAI/Anthropic/Microsoft/Salesforce/Google structural models; moat is proprietary workflow access (brief 2026-07-16, Story 1)
-- Starbucks building AI software to replace Microsoft/IBM/Oracle — $400M spend target, $30M savings, mixed execution (brief 2026-07-16, Story 2; deferred to EP026 A-Block per Jay EP025)
+- Starbucks building AI software to replace Microsoft/IBM/Oracle — $400M spend target, $30M savings, mixed execution (brief 2026-07-16, Story 2)
 - Gainsight Atlas executive hires — Grant Clarke, Vijay Jegan; vendor-services tension made explicit (brief 2026-07-16, Story 3)
 - Zuckerberg: AI agents not progressing as expected; Meta $145B infrastructure spend, 3-6 month horizon (brief 2026-07-16, Story 4)
-- Jeff's Mr. Baxter household AI agent (NanoClaw, iMessage, chef/scheduler/maintenance); Jay's fitness agent (EP025, brief 2026-07-24, A-Block anchor)
-- Intelligence sovereignty — who owns the intelligence built on third-party models; open-source + Azure AI Foundry as enterprise counter-move (EP025 thread, brief 2026-07-24, A-Block + Trend Watch)
-- CS talent collapse — 44% tenure ≤2 years (up from 18%); 39.9% switching employers; discipline maturing, employers failing (brief 2026-07-24, B-Block 2)
-- Salesforce Help Agent $2/resolution — GA July 2026, outcome-based pricing as Trojan horse (brief 2026-07-24, B-Block 3)
-- Personal agents per employee — NanoClaw Enterprise 250K downloads; "one sandboxed agent per worker" model (brief 2026-07-24, A-Block correlated)
